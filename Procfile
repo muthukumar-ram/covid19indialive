@@ -1,2 +1,2 @@
-web: voila --port=$PORT --debug--no-browser --template=material --enable_nbextensions=True notebooks/covid19indialive.ipynb
+web: voila --port=$PORT --debug --no-browser --template=material --enable_nbextensions=True notebooks/covid19indialive.ipynb
 
