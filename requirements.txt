@@ -7,4 +7,5 @@ plotly
 folium
 matplotlib
 numpy
+networkx
 
