@@ -50,7 +50,7 @@
 48,49,2020-03-25,14 Apr,T2P,2,P#17 - Daughter,Bengaluru,F,9.0,3-12
 49,50,2020-03-25,14 Apr,T2P,2,P#17 - Daughter,Bengaluru,F,7.0,3-12
 50,51,2020-03-25,12 Apr,T,1,Dubai,Udupi,M,34.0,20-40
-51,52,2020-03-26,11 Apr,NP,2,Contact with Health care professionals. Origin of Nanjangud Pharma trace. Spread to 25 cases.,Mysuru,M,35.0,20-40
+51,52,2020-03-26,11 Apr,NP,2,Contact with Health care professionals. Origin of Nanjangudu Pharma trace. Spread to 25 cases.,Mysuru,M,35.0,20-40
 52,53,2020-03-26,24 Mar,T,1,Saudi Arabia,Chikkaballapur,F,70.0,60+
 53,54,2020-03-26,18 Apr,T,1,France,Bengaluru,M,64.0,60+
 54,55,2020-03-26,19 Apr,T2P,2,P#25 - Security Guard,Bengaluru,M,45.0,40-60
@@ -394,3 +394,16 @@
 392,393,2020-04-20,,DT,4,P#205 - Contact,Kalaburagi,F,30.0,20-40
 393,394,2020-04-20,,U,4,P#177 - Contact,Kalaburagi,M,50.0,40-60
 394,395,2020-04-20,,DT,4,P#205 - Contact,Kalaburagi,M,19.0,12-20
+395,396,2020-04-20,,U,6,P#370 - Secondary Contact,Gadag,M,24.0,20-40
+396,397,2020-04-20,,U,4,P#221 - Contact,Vijayapura,F,7.0,3-12
+397,398,2020-04-20,,U,4,P#221 - Contact,Vijayapura,M,36.0,20-40
+398,399,2020-04-20,,U,4,P#221 - Contact,Vijayapura,F,27.0,20-40
+399,400,2020-04-20,,U,4,P#221 - Contact,Vijayapura,F,25.0,20-40
+400,401,2020-04-20,,U,5,P#362 - Contact,Vijayapura,F,21.0,20-40
+401,402,2020-04-20,,U,5,P#362 - Contact,Vijayapura,M,28.0,20-40
+402,403,2020-04-20,,U,5,P#362 - Contact,Vijayapura,F,47.0,40-60
+403,404,2020-04-20,,U,4,P#221 - Contact,Vijayapura,M,10.0,3-12
+404,405,2020-04-20,,U,4,P#228 - Contact,Vijayapura,F,34.0,20-40
+405,406,2020-04-20,,U,4,P#221 - Contact,Vijayapura,F,38.0,20-40
+406,407,2020-04-20,,U,4,P#221 - Contact,Vijayapura,M,14.0,12-20
+407,408,2020-04-20,,TJ,3,P#117 - Contact,Bidar,M,27.0,20-40
