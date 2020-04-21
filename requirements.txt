@@ -8,4 +8,4 @@ folium
 matplotlib
 numpy
 networkx
-
+math
