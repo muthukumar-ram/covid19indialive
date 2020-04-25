@@ -305,7 +305,7 @@
 303,304,2020-04-16,,U,4,P#166 - Contact,Gadag,F,59.0,40-60
 304,305,2020-04-16,,OS,3,P#221 - Contact,Vijayapura,M,12.0,3-12
 305,306,2020-04-16,,OS,3,P#221 - Contact,Vijayapura,M,65.0,60+
-306,307,2020-04-16,,OS',3,P#221 - Contact,Vijayapura,M,66.0,60+
+306,307,2020-04-16,,OS,3,P#221 - Contact,Vijayapura,M,66.0,60+
 307,308,2020-04-16,,OS,3,P#221 - Contact,Vijayapura,M,37.0,20-40
 308,309,2020-04-16,,OS,3,P#221 - Contact,Vijayapura,F,70.0,60+
 309,310,2020-04-16,,OS,3,P#228 & 232 - Contact,Vijayapura,F,1.5,<3
@@ -426,3 +426,50 @@
 424,425,2020-04-22,,DT,5,P#395 - Contact,Kalaburagi,F,26.0,20-40
 425,426,2020-04-22,,NP,4,P#383 - Contact,Mysuru,M,56.0,40-60
 426,427,2020-04-22,,NP,3,P#52 - Secondary Contact,Mysuru,M,32.0,20-40
+427,428,2020-04-23,,OS,3,P#221 - Contact,Vijayapura,M,32.0,20-40
+428,429,2020-04-23,,U,3,Under Tracing,Vijayapura,F,25.0,20-40
+429,430,2020-04-23,,DT,4,P#236 - Contact,Dharwad,F,30.0,20-40
+430,431,2020-04-23,,DT,4,P#236 - Contact,Dharwad,F,13.0,12-20
+431,432,2020-04-23,,U,4,P#390 - Contact,Dakshina Kannada,F,78.0,60+
+432,433,2020-04-23,,U,4,P#419 - Contact,Bengaluru,M,30.0,20-40
+433,434,2020-04-23,,U,4,P#419 - Contact,Bengaluru,M,30.0,20-40
+434,435,2020-04-23,,U,4,P#419 - Contact,Bengaluru,M,22.0,20-40
+435,436,2020-04-23,,U,4,P#419 - Contact,Bengaluru,M,40.0,20-40
+436,437,2020-04-23,,U,4,P#419 - Contact,Bengaluru,M,39.0,20-40
+437,438,2020-04-23,,U,4,P#419 - Contact,Bengaluru,M,25.0,20-40
+438,439,2020-04-23,,U,4,P#419 - Contact,Bengaluru,M,37.0,20-40
+439,440,2020-04-23,,U,4,P#419 - Contact,Bengaluru,M,43.0,40-60
+440,441,2020-04-23,,U,4,P#419 - Contact,Bengaluru,M,24.0,20-40
+441,442,2020-04-23,,DT,4,P#171 & P#371 Contact,Mandya,M,47.0,40-60
+442,443,2020-04-23,,DT,4,P#179 - Contact,Mandya,F,28.0,20-40
+443,444,2020-04-23,,U,4,P#252 - Contact,Bengaluru,M,41.0,40-60
+444,445,2020-04-23,,U,4,P#413 - Contact,Kalaburagi,M,32.0,20-40
+445,446,2020-04-24,,U,3,Influenza Like Illness (ILI),Bengaluru,F,49.0,40-60
+446,447,2020-04-24,,OS,3,Travel History to Surat-Gujarat,Tumkuru,M,32.0,20-40
+447,448,2020-04-24,,TJ,3,P#150 - Contact,Belagavi,F,10.0,3-12
+448,449,2020-04-24,,U,3,Containment zone (BBMP Ward 135) - Contact,Bengaluru,M,30.0,20-40
+449,450,2020-04-24,,U,3,Containment zone (BBMP Ward 135) - Contact,Bengaluru,M,22.0,20-40
+450,451,2020-04-24,,U,4,P#250 - Contact,Chikkaballapur,M,39.0,20-40
+451,452,2020-04-24,,U,3,Containment zone (BBMP Ward 135) - Contact,Bengaluru,M,35.0,20-40
+452,453,2020-04-24,,U,3,Containment zone (BBMP Ward 135) - Contact,Bengaluru,M,32.0,20-40
+453,454,2020-04-24,,U,3,Containment zone (BBMP Ward 135) - Contact,Bengaluru,M,23.0,20-40
+454,455,2020-04-24,,U,7,P#380 - Contact,Bagalkote,M,28.0,20-40
+455,456,2020-04-24,,U,3,Influenza Like Illness (ILI),Bagalkote,M,46.0,40-60
+456,457,2020-04-24,,OS,3,P#221 - Contact,Vijayapura,M,17.0,12-20
+457,458,2020-04-24,,U,4,P#419 - Contact,Bengaluru,M,26.0,20-40
+458,459,2020-04-24,,U,4,P#419 - Contact,Bengaluru,M,35.0,20-40
+459,460,2020-04-24,,U,4,P#419 - Contact,Bengaluru,M,31.0,20-40
+460,461,2020-04-24,,U,4,P#419 - Contact,Bengaluru,M,32.0,20-40
+461,462,2020-04-24,,U,4,P#419 - Contact,Bengaluru,M,24.0,20-40
+462,463,2020-04-24,,TJ,3,P#148 - Contact,Belagavi,M,15.0,12-20
+463,464,2020-04-24,,DT,4,P#179 - Contact,Mandya,M,60.0,40-60
+464,465,2020-04-24,,U,3,History of SARI,Bengaluru,F,45.0,40-60
+465,466,2020-04-24,,U,3,History of SARI,Bengaluru,M,50.0,40-60
+466,467,2020-04-24,,OS,3,P#221 - Contact,Vijayapura,M,27.0,20-40
+467,468,2020-04-24,,U,7,P#380 - Contact,Bagalkote,M,14.0,12-20
+468,469,2020-04-24,,U,4,P#419 - Contact,Bengaluru,M,26.0,20-40
+469,470,2020-04-24,,U,4,P#419 - Contact,Bengaluru,M,20.0,12-20
+470,471,2020-04-24,,U,4,P#419 - Contact,Bengaluru,M,22.0,20-40
+471,472,2020-04-24,,U,4,P#419 - Contact,Bengaluru,M,58.0,40-60
+472,473,2020-04-24,,U,4,P#419 - Contact,Bengaluru,M,38.0,20-40
+473,474,2020-04-24,,U,4,P#419 - Contact,Bengaluru,M,44.0,40-60
