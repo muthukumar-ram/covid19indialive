@@ -1,20 +1,20 @@
 ,Patient Number,Date announced,Date discharged/ Deceased,Origin type,Level,Origin,Location,Date Announced,Gender,Age,AgeRange
 0,1,9 March 2020,27 Mar,T,1,"Austin, USA via Dubai",Bengaluru,2020-03-09,M,46.0,40-60
-1,2,10 March 2020,24 Mar,T2P,2,P1 - Wife,Bengaluru,2020-03-10,F,47.0,40-60
-2,3,10 March 2020,27 Mar,T2P,2,P1 - Daughter,Bengaluru,2020-03-10,F,13.0,12-20
+1,2,10 March 2020,24 Mar,T2P,2,P1 – Wife,Bengaluru,2020-03-10,F,47.0,40-60
+2,3,10 March 2020,27 Mar,T2P,2,P1 – Daughter,Bengaluru,2020-03-10,F,13.0,12-20
 3,4,10 March 2020,24 Mar,T,1,"Los Angeles, USA via London",Bengaluru,2020-03-10,M,50.0,40-60
 4,5,12 March 2020,20 Mar,T,1,Greece,Bengaluru,2020-03-12,M,26.0,20-40
 5,6,13 March 2020,10 Mar,T,1,Saudi Arabia,Kalaburagi,2020-03-13,M,76.0,60+
-6,7,16 March 2020,31 Mar,T2P,2,P6 - Daughter,Kalaburagi,2020-03-16,F,45.0,40-60
+6,7,16 March 2020,31 Mar,T2P,2,P6 – Daughter,Kalaburagi,2020-03-16,F,45.0,40-60
 7,8,17 March 2020,31 Mar,T,1,United States,Bengaluru,2020-03-17,M,32.0,20-40
-8,9,17 March 2020,5 Apr,T2P,2,P6 - Doctor,Kalaburagi,2020-03-17,M,63.0,60+
+8,9,17 March 2020,5 Apr,T2P,2,P6 – Doctor,Kalaburagi,2020-03-17,M,63.0,60+
 9,10,17 March 2020,2 Apr,T,1,UK,Bengaluru,2020-03-17,F,20.0,12-20
 10,11,17 March 2020,30 Mar,T,1,Dubai,Bengaluru,2020-03-17,F,67.0,60+
 11,12,18 March 2020,31 Mar,T,1,Spain,Bengaluru,2020-03-18,M,25.0,20-40
 12,13,18 March 2020,6 Apr,T,1,"United States, United States",Bengaluru,2020-03-18,F,56.0,40-60
 13,14,18 March 2020,5 Apr,T,1,"United States, United States",Bengaluru,2020-03-18,M,35.0,20-40
 14,15,19 March 2020,8 Apr,T,1,Dubai,Kodagu,2020-03-19,M,35.0,20-40
-15,16,21 March 2020,12 Apr,T2P,2,P11 - House Maid,Bengaluru,2020-03-21,F,53.0,40-60
+15,16,21 March 2020,12 Apr,T2P,2,P11 – House Maid,Bengaluru,2020-03-21,F,53.0,40-60
 16,17,21 March 2020,15 Apr,T,1,Netherland,Bengaluru,2020-03-21,M,39.0,20-40
 17,18,21 March 2020,14 Apr,T,1,Scotland,Bengaluru,2020-03-21,F,21.0,20-40
 18,19,21 March 2020,14 Apr,T,1,Saudi Arabia. Spread to 7 cases.,Chikkaballapur,2020-03-21,M,31.0,20-40
@@ -28,7 +28,7 @@
 26,27,23 March 2020,12 Apr,T,1,Dubai,Mysuru,2020-03-23,M,46.0,40-60
 27,28,23 March 2020,7 Apr,T,1,Dubai,Bengaluru,2020-03-23,M,38.0,20-40
 28,29,23 March 2020,6 Apr,T,1,UK,Bengaluru,2020-03-23,M,41.0,40-60
-29,30,23 March 2020,14 Apr,T2P,2,P17 - Wife,Bengaluru,2020-03-23,F,30.0,20-40
+29,30,23 March 2020,14 Apr,T2P,2,P17 – Wife,Bengaluru,2020-03-23,F,30.0,20-40
 30,31,23 March 2020,6 Apr,T,1,UK,Bengaluru,2020-03-23,M,24.0,20-40
 31,32,23 March 2020,19 Apr,T,1,Germany,Bengaluru,2020-03-23,M,60.0,40-60
 32,33,23 March 2020,12 Apr,T,1,Dubai,Bengaluru,2020-03-23,M,22.0,20-40
@@ -36,7 +36,7 @@
 34,35,24 March 2020,8 Apr,T,1,Dubai,Uttara Kannada,2020-03-24,M,40.0,20-40
 35,36,24 March 2020,8 Apr,T,1,Dubai,Uttara Kannada,2020-03-24,M,65.0,60+
 36,37,24 March 2020,10 Apr,T2P,2,"Saudi Arabia P19, P22- Family Member & Train Co-passenger",Chikkaballapur,2020-03-24,F,56.0,40-60
-37,38,24 March 2020,17 Apr,T2P,2,P13 - Contact,Bengaluru,2020-03-24,F,56.0,40-60
+37,38,24 March 2020,17 Apr,T2P,2,P13 – Contact,Bengaluru,2020-03-24,F,56.0,40-60
 38,39,24 March 2020,7 Apr,T,1,Dubai,Dakshina Kannada,2020-03-24,M,47.0,40-60
 39,40,24 March 2020,13 Apr,T,1,Saudi Arabia,Dakshina Kannada,2020-03-24,F,70.0,60+
 40,41,24 March 2020,7 Apr,T,1,Dubai,Dakshina Kannada,2020-03-24,M,23.0,20-40
@@ -47,71 +47,71 @@
 45,46,25 March 2020,13 Apr,T,1,Spain,Bengaluru,2020-03-25,M,26.0,20-40
 46,47,25 March 2020,11 Apr,T,1,Athens and London,Bengaluru,2020-03-25,F,63.0,60+
 47,48,25 March 2020,11 Apr,T,1,Athens and London,Bengaluru,2020-03-25,M,69.0,60+
-48,49,25 March 2020,14 Apr,T2P,2,P17 - Daughter,Bengaluru,2020-03-25,F,9.0,3-12
-49,50,25 March 2020,14 Apr,T2P,2,P17 - Daughter,Bengaluru,2020-03-25,F,7.0,3-12
+48,49,25 March 2020,14 Apr,T2P,2,P17 – Daughter,Bengaluru,2020-03-25,F,9.0,3-12
+49,50,25 March 2020,14 Apr,T2P,2,P17 – Daughter,Bengaluru,2020-03-25,F,7.0,3-12
 50,51,25 March 2020,12 Apr,T,1,Dubai,Udupi,2020-03-25,M,34.0,20-40
-51,52,26 March 2020,11 Apr,NP,2,Contact with Health care professionals. Origin of Nanjangudu Pharma trace. Spread to 25 cases.,Mysuru,2020-03-26,M,35.0,20-40
+51,52,26 March 2020,11 Apr,NP,2,Contact with Health care professionals. Origin of Nanjangudu Pharma trace. Spread to 30+ cases.,Mysuru,2020-03-26,M,35.0,20-40
 52,53,26 March 2020,24 Mar,T,1,Saudi Arabia,Chikkaballapur,2020-03-26,F,70.0,60+
 53,54,26 March 2020,18 Apr,T,1,France,Bengaluru,2020-03-26,M,64.0,60+
-54,55,26 March 2020,19 Apr,T2P,2,P25 - Security Guard,Bengaluru,2020-03-26,M,45.0,40-60
+54,55,26 March 2020,19 Apr,T2P,2,P25 – Security Guard,Bengaluru,2020-03-26,M,45.0,40-60
 55,56,27 March 2020,12 Apr,U,3,Under Investigation Kerala visit,Dakshina Kannada,2020-03-27,M,1.0,<3
 56,57,27 March 2020,17 Apr,T,1,Colombo,Bengaluru,2020-03-27,M,20.0,12-20
 57,58,27 March 2020,17 Apr,T,1,London,Bengaluru,2020-03-27,F,25.0,20-40
-58,59,27 March 2020,17 Apr,T2P,2,P25 - House Maid,Bengaluru,2020-03-27,F,35.0,20-40
+58,59,27 March 2020,17 Apr,T2P,2,P25 – House Maid,Bengaluru,2020-03-27,F,35.0,20-40
 59,60,27 March 2020,27 Mar,DT,2,Travel history to Delhi,Tumakuru,2020-03-27,M,60.0,40-60
-60,61,27 March 2020,14 Apr,T2P,2,P25 - House Maid,Bengaluru,2020-03-27,F,33.0,20-40
+60,61,27 March 2020,14 Apr,T2P,2,P25 – House Maid,Bengaluru,2020-03-27,F,33.0,20-40
 61,62,27 March 2020,15 Apr,T,1,Dubai,Uttara Kannada,2020-03-27,M,22.0,20-40
 62,63,27 March 2020,9 Apr,T,1,Paris,Davanagere,2020-03-27,M,18.0,12-20
 63,64,27 March 2020,10 Apr,T,1,Dubai,Dakshina Kannada,2020-03-27,M,21.0,20-40
-64,65,28 March 2020,15 Apr,T2P,2,P36 - Wife,Uttara Kannada,2020-03-28,F,54.0,40-60
-65,66,28 March 2020,15 Apr,T2P,2,P36 - Daughter,Uttara Kannada,2020-03-28,F,28.0,20-40
-66,67,28 March 2020,15 Apr,T2P,2,P36 - Daughter,Uttara Kannada,2020-03-28,F,23.0,20-40
+64,65,28 March 2020,15 Apr,T2P,2,P36 – Wife,Uttara Kannada,2020-03-28,F,54.0,40-60
+65,66,28 March 2020,15 Apr,T2P,2,P36 – Daughter,Uttara Kannada,2020-03-28,F,28.0,20-40
+66,67,28 March 2020,15 Apr,T2P,2,P36 – Daughter,Uttara Kannada,2020-03-28,F,23.0,20-40
 67,68,28 March 2020,11 Apr,T,1,"London, (Also P25's Son)",Bengaluru,2020-03-28,M,21.0,20-40
-68,69,28 March 2020,12 Apr,T2P,2,"P19 - Contacts from Hindupur, AP",Chikkaballapur,2020-03-28,M,23.0,20-40
-69,70,28 March 2020,10 Apr,T2P,2,P19 - Contacts from Chikkaballapur,Chikkaballapur,2020-03-28,M,70.0,60+
-70,71,28 March 2020,12 Apr,T2P,2,P19 - Contacts from Chikkaballapur,Chikkaballapur,2020-03-28,F,32.0,20-40
-71,72,28 March 2020,12 Apr,T2P,2,P19 - Contacts from Chikkaballapur,Chikkaballapur,2020-03-28,M,38.0,20-40
-72,73,28 March 2020,12 Apr,T2P,2,"P19 - Contacts from Hindupur, AP",Chikkaballapur,2020-03-28,M,18.0,12-20
-73,74,28 March 2020,,T,1,London,Bengaluru,2020-03-28,F,63.0,60+
-74,75,28 March 2020,6 Apr,T2P,2,P42 - Cousin,Davanagere,2020-03-28,M,20.0,12-20
-75,76,28 March 2020,15 Apr,T2P,2,P35 - Contact,Uttara Kannada,2020-03-28,M,24.0,20-40
-76,77,29 March 2020,18 Apr,NP,3,P52 - Pharma co-workers at Nanjanagudu,Mysuru,2020-03-29,M,39.0,20-40
-77,78,29 March 2020,12 Apr,NP,3,P52 - Pharma co-workers at Nanjanagudu,Mysuru,2020-03-29,M,38.0,20-40
-78,79,29 March 2020,12 Apr,NP,3,P52 - Pharma co-workers at Nanjanagudu,Mysuru,2020-03-29,M,21.0,20-40
-79,80,29 March 2020,,NP,3,P52 - Pharma co-workers at Nanjanagudu,Mysuru,2020-03-29,M,31.0,20-40
-80,81,29 March 2020,12 Apr,NP,3,P52 - Pharma co-workers at Nanjanagudu,Mysuru,2020-03-29,M,42.0,40-60
+68,69,28 March 2020,12 Apr,T2P,2,"P19 – Contacts from Hindupur, AP",Chikkaballapur,2020-03-28,M,23.0,20-40
+69,70,28 March 2020,10 Apr,T2P,2,P19 – Contacts from Chikkaballapur,Chikkaballapur,2020-03-28,M,70.0,60+
+70,71,28 March 2020,12 Apr,T2P,2,P19 – Contacts from Chikkaballapur,Chikkaballapur,2020-03-28,F,32.0,20-40
+71,72,28 March 2020,12 Apr,T2P,2,P19 – Contacts from Chikkaballapur,Chikkaballapur,2020-03-28,M,38.0,20-40
+72,73,28 March 2020,12 Apr,T2P,2,"P19 – Contacts from Hindupur, AP",Chikkaballapur,2020-03-28,M,18.0,12-20
+73,74,28 March 2020,2 may,T,1,London,Bengaluru,2020-03-28,F,63.0,60+
+74,75,28 March 2020,6 Apr,T2P,2,P42 – Cousin,Davanagere,2020-03-28,M,20.0,12-20
+75,76,28 March 2020,15 Apr,T2P,2,P35 – Contact,Uttara Kannada,2020-03-28,M,24.0,20-40
+76,77,29 March 2020,18 Apr,NP,3,P52 – Pharma co-workers at Nanjanagudu,Mysuru,2020-03-29,M,39.0,20-40
+77,78,29 March 2020,12 Apr,NP,3,P52 – Pharma co-workers at Nanjanagudu,Mysuru,2020-03-29,M,38.0,20-40
+78,79,29 March 2020,12 Apr,NP,3,P52 – Pharma co-workers at Nanjanagudu,Mysuru,2020-03-29,M,21.0,20-40
+79,80,29 March 2020,,NP,3,P52 – Pharma co-workers at Nanjanagudu,Mysuru,2020-03-29,M,31.0,20-40
+80,81,29 March 2020,12 Apr,NP,3,P52 – Pharma co-workers at Nanjanagudu,Mysuru,2020-03-29,M,42.0,40-60
 81,82,29 March 2020,14 Apr,T,1,Dubai,Udupi,2020-03-29,M,35.0,20-40
 82,83,29 March 2020,19 Apr,T,1,Thiruvananthapuram,Udupi,2020-03-29,M,29.0,20-40
-83,84,30 March 2020,16 Apr,DT,3,P60 - Son,Tumakuru,2020-03-30,M,13.0,12-20
-84,85,30 March 2020,12 Apr,NP,3,P52 - Pharma co-workers at Nanjanagudu,Mysuru,2020-03-30,M,32.0,20-40
-85,86,30 March 2020,12 Apr,NP,3,P52 - Pharma co-workers at Nanjanagudu,Mysuru,2020-03-30,M,34.0,20-40
-86,87,30 March 2020,14 Apr,NP,3,P52 - Pharma co-workers at Nanjanagudu,Mysuru,2020-03-30,M,21.0,20-40
-87,88,30 March 2020,12 Apr,NP,3,P52 - Pharma co-workers at Nanjanagudu. Spread to 8 cases.,Mysuru,2020-03-30,M,24.0,20-40
+83,84,30 March 2020,16 Apr,DT,3,P60 – Son,Tumakuru,2020-03-30,M,13.0,12-20
+84,85,30 March 2020,12 Apr,NP,3,P52 – Pharma co-workers at Nanjanagudu,Mysuru,2020-03-30,M,32.0,20-40
+85,86,30 March 2020,12 Apr,NP,3,P52 – Pharma co-workers at Nanjanagudu,Mysuru,2020-03-30,M,34.0,20-40
+86,87,30 March 2020,14 Apr,NP,3,P52 – Pharma co-workers at Nanjanagudu,Mysuru,2020-03-30,M,21.0,20-40
+87,88,30 March 2020,12 Apr,NP,3,P52 – Pharma co-workers at Nanjanagudu. Spread to 8 cases.,Mysuru,2020-03-30,M,24.0,20-40
 88,89,31 March 2020,23 Apr,U,3,Under Investigation; Travel to Bengaluru,Ballari,2020-03-31,M,52.0,40-60
 89,90,31 March 2020,26 Apr,U,3,Under Investigation; Travel to Bengaluru,Ballari,2020-03-31,F,48.0,40-60
 90,91,31 March 2020,23 Apr,U,3,Under Investigation; Travel to Bengaluru,Ballari,2020-03-31,F,26.0,20-40
-91,92,31 March 2020,14 Apr,P2P,3,P59 - Husband,Bengaluru,2020-03-31,M,40.0,20-40
+91,92,31 March 2020,14 Apr,P2P,3,P59 – Husband,Bengaluru,2020-03-31,M,40.0,20-40
 92,93,31 March 2020,17 Apr,T,1,New York,Bengaluru,2020-03-31,M,19.0,12-20
-93,94,31 March 2020,21 Apr,T2P,2,"P19 - Contact (see P94, P191)",Chikkaballapur,2020-03-31,F,40.0,20-40
+93,94,31 March 2020,21 Apr,T2P,2,"P19 – Contact (see P94, P191)",Chikkaballapur,2020-03-31,F,40.0,20-40
 94,95,31 March 2020,13 Apr,NP,3,Contact with P52 Nanjanagudu,Mysuru,2020-03-31,M,35.0,20-40
 95,96,31 March 2020,18 Apr,NP,3,Contact with P52 Nanjanagudu,Mysuru,2020-03-31,M,41.0,40-60
 96,97,31 March 2020,14 Apr,T,1,Dubai,Dakshina Kannada,2020-03-31,M,34.0,20-40
 97,98,31 March 2020,18 Apr,T,1,Dubai,Uttara Kannada,2020-03-31,M,26.0,20-40
-98,99,31 March 2020,16 Apr,P2P,3,P9 - Wife,Kalaburagi,2020-03-31,F,60.0,40-60
+98,99,31 March 2020,16 Apr,P2P,3,P9 – Wife,Kalaburagi,2020-03-31,F,60.0,40-60
 99,100,31 March 2020,15 Apr,T,1,Dubai,Bengaluru,2020-03-31,M,40.0,20-40
 100,101,31 March 2020,,U,3,Under Investigation,Bengaluru,2020-03-31,F,62.0,60+
 101,102,1 April 2020,18 Apr,U,3,Under Investigation,Bengaluru,2020-04-01,M,24.0,20-40
-102,103,1 April 2020,26 Apr,NP,3,P52 - Co-workers at Nanjanagudu,Mysuru,2020-04-01,M,37.0,20-40
-103,104,1 April 2020,19 Apr,NP,3,P52 - Co-workers at Nanjanagudu,Mysuru,2020-04-01,M,27.0,20-40
-104,105,1 April 2020,14 Apr,NP,4,P103 - Contact Nanjanagudu,Mysuru,2020-04-01,M,33.0,20-40
+102,103,1 April 2020,26 Apr,NP,3,P52 – Co-workers at Nanjanagudu,Mysuru,2020-04-01,M,37.0,20-40
+103,104,1 April 2020,19 Apr,NP,3,P52 – Co-workers at Nanjanagudu,Mysuru,2020-04-01,M,27.0,20-40
+104,105,1 April 2020,14 Apr,NP,4,P103 – Contact Nanjanagudu,Mysuru,2020-04-01,M,33.0,20-40
 105,106,1 April 2020,15 Apr,T,1,Dubai (20-Mar),Dakshina Kannada,2020-04-01,M,49.0,40-60
 106,107,1 April 2020,13 Apr,T,1,Spain (18-Mar),Bengaluru,2020-04-01,M,26.0,20-40
 107,108,1 April 2020,28 Apr,T,1,Germany (21-Mar),Bengaluru,2020-04-01,M,63.0,60+
-108,109,1 April 2020,18 Apr,NP,3,P52 - Contact,Mysuru,2020-04-01,M,63.0,60+
-109,110,1 April 2020,18 Apr,NP,3,P52 - Wife,Mysuru,2020-04-01,F,27.0,20-40
-110,111,2 April 2020,25 Apr,NP,4,P88 - Roommates (Nanjanagudu trace),Mysuru,2020-04-02,M,24.0,20-40
-111,112,2 April 2020,18 Apr,NP,4,P88 - Roommates (Nanjanagudu trace),Mysuru,2020-04-02,M,22.0,20-40
-112,113,2 April 2020,,NP,4,P81 - Son (Nanjanagudu trace),Ballari,2020-04-02,M,14.0,12-20
+108,109,1 April 2020,18 Apr,NP,3,P52 – Contact,Mysuru,2020-04-01,M,63.0,60+
+109,110,1 April 2020,18 Apr,NP,3,P52 – Wife,Mysuru,2020-04-01,F,27.0,20-40
+110,111,2 April 2020,25 Apr,NP,4,P88 – Roommates (Nanjanagudu trace),Mysuru,2020-04-02,M,24.0,20-40
+111,112,2 April 2020,18 Apr,NP,4,P88 – Roommates (Nanjanagudu trace),Mysuru,2020-04-02,M,22.0,20-40
+112,113,2 April 2020,,NP,4,P81 – Son (Nanjanagudu trace),Ballari,2020-04-02,M,14.0,12-20
 113,114,2 April 2020,23 Apr,TJ,2,"Nizamuddin Markaz, Delhi",Bidar,2020-04-02,M,48.0,40-60
 114,115,2 April 2020,23 Apr,TJ,2,"Nizamuddin Markaz, Delhi",Bidar,2020-04-02,M,30.0,20-40
 115,116,2 April 2020,23 Apr,TJ,2,"Nizamuddin Markaz, Delhi",Bidar,2020-04-02,M,41.0,40-60
@@ -119,17 +119,17 @@
 117,118,2 April 2020,23 Apr,TJ,2,"Nizamuddin Markaz, Delhi",Bidar,2020-04-02,M,59.0,40-60
 118,119,2 April 2020,23 Apr,TJ,2,"Nizamuddin Markaz, Delhi",Bidar,2020-04-02,M,39.0,20-40
 119,120,2 April 2020,23 Apr,TJ,2,"Nizamuddin Markaz, Delhi",Bidar,2020-04-02,M,60.0,40-60
-120,121,2 April 2020,,TJ,2,"Nizamuddin Markaz, Delhi",Bidar,2020-04-02,M,63.0,60+
+120,121,2 April 2020,2 may,TJ,2,"Nizamuddin Markaz, Delhi",Bidar,2020-04-02,M,63.0,60+
 121,122,2 April 2020,23 Apr,TJ,2,"Nizamuddin Markaz, Delhi",Bidar,2020-04-02,M,73.0,60+
 122,123,2 April 2020,23 Apr,TJ,2,"Nizamuddin Markaz, Delhi",Bidar,2020-04-02,M,45.0,40-60
 123,124,2 April 2020,24 Apr,TJ,3,Nizamuddin Visitor Contact,Kalaburagi,2020-04-02,F,60.0,40-60
 124,125,3 April 2020,4 Apr,U,3,Under Investigation,Bagalkote,2020-04-03,M,75.0,60+
 125,126,3 April 2020,21 Apr,TJ,2,"Nizamuddin Markaz, Delhi",Belagavi,2020-04-03,M,70.0,60+
 126,127,3 April 2020,29 Apr,TJ,2,"Nizamuddin Markaz, Delhi",Belagavi,2020-04-03,M,26.0,20-40
-127,128,3 April 2020,21 Apr,TJ,2,"Nizamuddin Markaz, Delhi",Belagavi,2020-04-03,M,20.0,12-20
-128,129,4 April 2020,20 Apr,T2P,2,P58 - Servant,Bengaluru,2020-04-04,M,21.0,20-40
-129,130,4 April 2020,28 Apr,T2P,2,P58 - Father,Bengaluru,2020-04-04,M,57.0,40-60
-130,131,4 April 2020,26 Apr,P2P,4,P101 - Son,Bengaluru,2020-04-04,M,43.0,40-60
+127,128,3 April 2020,21 Apr,TJ,2,"Nizamuddin Markaz, Delhi. Spread to 15 cases.",Belagavi,2020-04-03,M,20.0,12-20
+128,129,4 April 2020,20 Apr,T2P,2,P58 – Servant,Bengaluru,2020-04-04,M,21.0,20-40
+129,130,4 April 2020,28 Apr,T2P,2,P58 – Father,Bengaluru,2020-04-04,M,57.0,40-60
+130,131,4 April 2020,26 Apr,P2P,4,P101 – Son,Bengaluru,2020-04-04,M,43.0,40-60
 131,132,4 April 2020,17 Apr,T,1,Dubai (17-Mar),Bengaluru,2020-04-04,M,78.0,60+
 132,133,4 April 2020,30 Apr,T,1,Germany,Bengaluru Rural,2020-04-04,M,60.0,40-60
 133,134,4 April 2020,21 Apr,DT,2,Travel history to Delhi,Mysuru,2020-04-04,M,38.0,20-40
@@ -138,7 +138,7 @@
 136,137,4 April 2020,21 Apr,U,3,Under Investigation,Mysuru,2020-04-04,M,39.0,20-40
 137,138,4 April 2020,18 Apr,DT,2,Travel history to Delhi,Mysuru,2020-04-04,M,54.0,40-60
 138,139,4 April 2020,19 Apr,U,3,Under Investigation,Mysuru,2020-04-04,M,40.0,20-40
-139,140,4 April 2020,28 Apr,NP,4,P109 - Contact,Mysuru,2020-04-04,M,34.0,20-40
+139,140,4 April 2020,28 Apr,NP,4,P109 – Contact,Mysuru,2020-04-04,M,34.0,20-40
 140,141,4 April 2020,23 Apr,U,3,Under Investigation,Ballari,2020-04-04,F,47.0,40-60
 141,142,4 April 2020,18 Apr,T,1,Dubai (22-Mar),Dakshina Kannada,2020-04-04,F,63.0,60+
 142,143,4 April 2020,18 Apr,TJ,2,"Nizamuddin Markaz, Delhi",Dakshina Kannada,2020-04-04,M,43.0,40-60
@@ -147,420 +147,1002 @@
 145,146,5 April 2020,19 Apr,T,1,Dubai (22-Mar),Bengaluru,2020-04-05,F,62.0,60+
 146,147,5 April 2020,,TJ,2,"Nizamuddin Markaz, Delhi",Belagavi,2020-04-05,F,36.0,20-40
 147,148,5 April 2020,21 Apr,TJ,2,"Nizamuddin Markaz, Delhi",Belagavi,2020-04-05,M,40.0,20-40
-148,149,5 April 2020,,TJ,2,"Nizamuddin Markaz, Delhi",Belagavi,2020-04-05,F,67.0,60+
+148,149,5 April 2020,2 may,TJ,2,"Nizamuddin Markaz, Delhi",Belagavi,2020-04-05,F,67.0,60+
 149,150,5 April 2020,25 Apr,TJ,2,"Nizamuddin Markaz, Delhi",Belagavi,2020-04-05,F,41.0,40-60
 150,151,5 April 2020,26 Apr,TJ,2,"Nizamuddin Markaz, Delhi",Ballari,2020-04-05,M,41.0,40-60
-151,152,6 April 2020,21 Apr,T2P,2,"P43, P44 - Son",Bengaluru,2020-04-06,M,32.0,20-40
+151,152,6 April 2020,21 Apr,T2P,2,"P43, P44 – Son",Bengaluru,2020-04-06,M,32.0,20-40
 152,153,6 April 2020,28 Apr,T,1,"Germany, P106 and P133 Contact",Bengaluru,2020-04-06,F,62.0,60+
-153,154,6 April 2020,21 Apr,NP,4,P104 - Brother,Mysuru,2020-04-06,M,20.0,12-20
+153,154,6 April 2020,21 Apr,NP,4,P104 – Brother,Mysuru,2020-04-06,M,20.0,12-20
 154,155,6 April 2020,18 Apr,TJ,2,"Nizamuddin Markaz, Delhi",Mysuru,2020-04-06,M,37.0,20-40
 155,156,6 April 2020,27 Apr,TJ,2,"Nizamuddin Markaz, Delhi",Mysuru,2020-04-06,M,57.0,40-60
 156,157,6 April 2020,22 Apr,TJ,2,"Nizamuddin Markaz, Delhi",Mysuru,2020-04-06,M,22.0,20-40
 157,158,6 April 2020,18 Apr,U,3,Under Investigation,Mysuru,2020-04-06,M,26.0,20-40
-158,159,6 April 2020,28 Apr,NP,3,P52 - Pharma co-workers at Nanjanagudu,Mysuru,2020-04-06,F,32.0,20-40
+158,159,6 April 2020,28 Apr,NP,3,P52 – Pharma co-workers at Nanjanagudu,Mysuru,2020-04-06,F,32.0,20-40
 159,160,6 April 2020,21 Apr,T,1,Dubai (date?),Mysuru,2020-04-06,F,35.0,20-40
-160,161,6 April 2020,21 Apr,U,4,P125 - Wife,Bagalkote,2020-04-06,F,54.0,40-60
-161,162,6 April 2020,21 Apr,U,4,P125 - Brother,Bagalkote,2020-04-06,M,58.0,40-60
+160,161,6 April 2020,21 Apr,U,4,P125 – Wife,Bagalkote,2020-04-06,F,54.0,40-60
+161,162,6 April 2020,21 Apr,U,4,P125 – Brother,Bagalkote,2020-04-06,M,58.0,40-60
 162,163,6 April 2020,21 Apr,TJ,2,"Nizamuddin Markaz, Delhi",Bengaluru,2020-04-06,M,43.0,40-60
 163,164,7 April 2020,26 Apr,TJ,2,"Nizamuddin Markaz, Delhi",Bagalkote,2020-04-07,M,33.0,20-40
-164,165,7 April 2020,26 Apr,U,4,P125 - Neighbour,Bagalkote,2020-04-07,F,41.0,40-60
+164,165,7 April 2020,26 Apr,U,4,P125 – Neighbour,Bagalkote,2020-04-07,F,41.0,40-60
 165,166,7 April 2020,9 Apr,U,3,Unknown? History of SARI,Gadag,2020-04-07,F,80.0,60+
-166,167,7 April 2020,21 Apr,TJ,2,"Nizamuddin Markaz, Delhi. Spread to 8 cases.",Bengaluru,2020-04-07,M,29.0,20-40
+166,167,7 April 2020,21 Apr,TJ,2,"Nizamuddin Markaz, Delhi. Spread to 11 cases.",Bengaluru,2020-04-07,M,29.0,20-40
 167,168,7 April 2020,21 Apr,TJ,2,"Nizamuddin Markaz, Delhi",Bengaluru,2020-04-07,M,50.0,40-60
 168,169,7 April 2020,24 Apr,TJ,2,"Nizamuddin Markaz, Delhi",Bengaluru Rural,2020-04-07,M,35.0,20-40
 169,170,7 April 2020,24 Apr,T,1,Dubai (date?),Bengaluru,2020-04-07,M,68.0,60+
 170,171,7 April 2020,26 Apr,DT,3,"P134,P135,P136,P137 & P138 contact",Mandya,2020-04-07,M,32.0,20-40
 171,172,7 April 2020,26 Apr,DT,3,"P134,P135,P136,P137 & P138 contact",Mandya,2020-04-07,M,36.0,20-40
 172,173,7 April 2020,26 Apr,DT,3,"P134,P135,P136,P137 & P138 contact",Mandya,2020-04-07,M,65.0,60+
-173,174,7 April 2020,24 Apr,TJ,4,P124 - Daughter-in-law,Kalaburagi,2020-04-07,F,28.0,20-40
+173,174,7 April 2020,24 Apr,TJ,4,P124 – Daughter-in-law,Kalaburagi,2020-04-07,F,28.0,20-40
 174,175,7 April 2020,25 Apr,U,3,Unknown with SARI,Kalaburagi,2020-04-07,M,57.0,40-60
 175,176,8 April 2020,24 Apr,T2P,2,"History of SARI. Contact with Dubai returnee, Pregnant woman",Uttara Kannada,2020-04-08,F,26.0,20-40
 176,177,8 April 2020,7 Apr,U,3,History of SARI,Kalaburagi,2020-04-08,M,65.0,60+
-177,178,8 April 2020,24 Apr,U,4,P175 - Mother,Kalaburagi,2020-04-08,F,72.0,60+
-178,179,8 April 2020,,DT,3,P134 & P138 contact,Mandya,2020-04-08,M,35.0,20-40
+177,178,8 April 2020,24 Apr,U,4,P175 – Mother,Kalaburagi,2020-04-08,F,72.0,60+
+178,179,8 April 2020,4 May,DT,3,P134 & P138 contact. Spread to 10 cases.,Mandya,2020-04-08,M,35.0,20-40
 179,180,8 April 2020,25 Apr,DT,2,Travel history to Delhi,Chikkaballapur,2020-04-08,M,23.0,20-40
 180,181,8 April 2020,26 Apr,DT,2,Travel history to Delhi,Bengaluru,2020-04-08,F,27.0,20-40
-181,182,9 April 2020,26 Apr,TJ,3,P128 - Father,Belagavi,2020-04-09,M,50.0,40-60
-182,183,9 April 2020,,NP,4,P104 - Father,Mysuru,2020-04-09,M,55.0,40-60
-183,184,9 April 2020,21 Apr,NP,4,P159 - Father,Mysuru,2020-04-09,M,68.0,60+
-184,185,9 April 2020,26 Apr,NP,3,"P78 - Co-passenger, Pharma company worker",Mandya,2020-04-09,M,32.0,20-40
-185,186,9 April 2020,26 Apr,U,5,P165 - Son,Bagalkote,2020-04-09,M,4.0,3-12
-186,187,9 April 2020,26 Apr,U,5,P165 - Son of Brother-in-law,Bagalkote,2020-04-09,M,13.0,12-20
-187,188,9 April 2020,,U,5,P165 - Daughter of Brother-in-law,Bagalkote,2020-04-09,F,9.0,3-12
+181,182,9 April 2020,26 Apr,TJ,3,P128 – Father,Belagavi,2020-04-09,M,50.0,40-60
+182,183,9 April 2020,,NP,4,P104 – Father,Mysuru,2020-04-09,M,55.0,40-60
+183,184,9 April 2020,21 Apr,NP,4,P159 – Father,Mysuru,2020-04-09,M,68.0,60+
+184,185,9 April 2020,26 Apr,NP,3,"P78 – Co-passenger, Pharma company worker",Mandya,2020-04-09,M,32.0,20-40
+185,186,9 April 2020,26 Apr,U,5,P165 – Son,Bagalkote,2020-04-09,M,4.0,3-12
+186,187,9 April 2020,26 Apr,U,5,P165 – Son of Brother-in-law,Bagalkote,2020-04-09,M,13.0,12-20
+187,188,9 April 2020,3 May,U,5,P165 – Daughter of Brother-in-law,Bagalkote,2020-04-09,F,9.0,3-12
 188,189,9 April 2020,26 Apr,DT,2,Travel history to Delhi,Bengaluru,2020-04-09,F,19.0,12-20
 189,190,9 April 2020,28 Apr,DT,2,Travel history to Delhi,Bengaluru,2020-04-09,M,27.0,20-40
 190,191,9 April 2020,23 Apr,P2P,3,P19 and P94 (Sisters),Chikkaballapur,2020-04-09,F,48.0,40-60
-191,192,9 April 2020,26 Apr,TJ,3,P128 - Mother,Belagavi,2020-04-09,F,40.0,20-40
-192,193,9 April 2020,,TJ,3,P128 - Brother,Belagavi,2020-04-09,M,22.0,20-40
+191,192,9 April 2020,26 Apr,TJ,3,P128 – Mother,Belagavi,2020-04-09,F,40.0,20-40
+192,193,9 April 2020,4 May,TJ,3,P128 – Brother,Belagavi,2020-04-09,M,22.0,20-40
 193,194,9 April 2020,24 Apr,DT,2,Travel history to Delhi,Dharwad,2020-04-09,M,27.0,20-40
 194,195,9 April 2020,15 Apr,U,3,History of SARI. Travel history to Manipur,Bengaluru,2020-04-09,M,66.0,60+
-195,196,9 April 2020,26 Apr,U,3,History of SARI,Bengaluru,2020-04-09,M,42.0,40-60
+195,196,9 April 2020,26 Apr,U,3,"History of SARI, was prescribed medicines by a medical student and sent home. The medical student later tested postive and triggered a chain.",Bengaluru,2020-04-09,M,42.0,40-60
 196,197,9 April 2020,26 Apr,U,3,History of SARI,Bengaluru,2020-04-09,M,27.0,20-40
 197,198,10 April 2020,26 Apr,TJ,3,P167 and P168 contact,Bengaluru,2020-04-10,M,48.0,40-60
 198,199,10 April 2020,26 Apr,TJ,3,P167 and P168 contact,Bengaluru,2020-04-10,M,57.0,40-60
 199,200,10 April 2020,21 Apr,NP,4,P159 and P103 (son),Mysuru,2020-04-10,M,8.0,3-12
-200,201,10 April 2020,28 Apr,NP,4,P103 - Mother-in-law,Mysuru,2020-04-10,F,48.0,40-60
-201,202,10 April 2020,22 Apr,NP,5,P111 - Pharma co-worker,Mysuru,2020-04-10,M,33.0,20-40
-202,203,10 April 2020,,NP,4,P85 - Wife,Mysuru,2020-04-10,F,28.0,20-40
-203,204,10 April 2020,,NP,5,P183 - Wife,Mysuru,2020-04-10,F,48.0,40-60
+200,201,10 April 2020,28 Apr,NP,4,P103 – Mother-in-law,Mysuru,2020-04-10,F,48.0,40-60
+201,202,10 April 2020,22 Apr,NP,5,P111 – Pharma co-worker,Mysuru,2020-04-10,M,33.0,20-40
+202,203,10 April 2020,3 May,NP,4,P85 – Wife,Mysuru,2020-04-10,F,28.0,20-40
+203,204,10 April 2020,,NP,5,P183 – Wife,Mysuru,2020-04-10,F,48.0,40-60
 204,205,10 April 2020,14 Apr,DT,3,"History of SARI, Contact with -ve case returned from Delhi",Kalaburagi,2020-04-10,M,55.0,40-60
-205,206,10 April 2020,25 Apr,TJ,3,P169 - Brother,Bengaluru Rural,2020-04-10,M,35.0,20-40
-206,207,10 April 2020,25 Apr,TJ,4,P206 - Daughter,Bengaluru Rural,2020-04-10,F,11.0,3-12
-207,208,11 April 2020,26 Apr,U,4,P196 - Doctor,Bengaluru,2020-04-11,M,32.0,20-40
-208,209,11 April 2020,26 Apr,NP,4,P88 - Pharma co-worker,Mysuru,2020-04-11,M,46.0,40-60
-209,210,11 April 2020,26 Apr,NP,4,P88 - Pharma co-worker,Mysuru,2020-04-11,M,43.0,40-60
-210,211,11 April 2020,,TJ,3,P122 - Brother's wife,Bidar,2020-04-11,F,50.0,40-60
-211,212,11 April 2020,,NP,4,P88 - Pharma co-worker,Mysuru,2020-04-11,M,27.0,20-40
-212,213,11 April 2020,28 Apr,NP,4,P88 - Pharma co-worker,Mysuru,2020-04-11,M,31.0,20-40
-213,214,11 April 2020,26 Apr,NP,4,P88 - Pharma co-worker,Mysuru,2020-04-11,M,26.0,20-40
-214,215,11 April 2020,,P2P,4,P92 - Son,Bengaluru,2020-04-11,M,10.0,3-12
-215,216,12 April 2020,28 Apr,NP,4,P88 - Pharma co-worker,Mysuru,2020-04-12,M,32.0,20-40
+205,206,10 April 2020,25 Apr,TJ,3,P169 – Brother,Bengaluru Rural,2020-04-10,M,35.0,20-40
+206,207,10 April 2020,25 Apr,TJ,4,P206 – Daughter,Bengaluru Rural,2020-04-10,F,11.0,3-12
+207,208,11 April 2020,26 Apr,U,4,P196 – Doctor,Bengaluru,2020-04-11,M,32.0,20-40
+208,209,11 April 2020,26 Apr,NP,4,P88 – Pharma co-worker,Mysuru,2020-04-11,M,46.0,40-60
+209,210,11 April 2020,26 Apr,NP,4,P88 – Pharma co-worker,Mysuru,2020-04-11,M,43.0,40-60
+210,211,11 April 2020,2 may,TJ,3,P122 – Brother's wife,Bidar,2020-04-11,F,50.0,40-60
+211,212,11 April 2020,4 May,NP,4,P88 – Pharma co-worker,Mysuru,2020-04-11,M,27.0,20-40
+212,213,11 April 2020,28 Apr,NP,4,P88 – Pharma co-worker,Mysuru,2020-04-11,M,31.0,20-40
+213,214,11 April 2020,26 Apr,NP,4,P88 – Pharma co-worker,Mysuru,2020-04-11,M,26.0,20-40
+214,215,11 April 2020,,P2P,4,P92 – Son,Bengaluru,2020-04-11,M,10.0,3-12
+215,216,12 April 2020,28 Apr,NP,4,P88 – Pharma co-worker,Mysuru,2020-04-12,M,32.0,20-40
 216,217,12 April 2020,28 Apr,U,3,History of SARI,Bengaluru,2020-04-12,F,75.0,60+
 217,218,12 April 2020,28 Apr,T,1,Indonesia (21 March 2020),Bengaluru,2020-04-12,M,58.0,40-60
 218,219,12 April 2020,14 Apr,U,3,History of SARI,Bengaluru,2020-04-12,M,76.0,60+
-219,220,12 April 2020,,U,4,P177 - Daughter-in-law,Kalaburagi,2020-04-12,F,24.0,20-40
-220,221,12 April 2020,27 Apr,OS,2,"History of SARI and Travel history to Ichalkaranji, Maharashtra. Spread to 20 cases.",Vijayapura,2020-04-12,F,60.0,40-60
-221,222,12 April 2020,,U,4,P177,Kalaburagi,2020-04-12,F,38.0,20-40
+219,220,12 April 2020,1 may,U,4,P177 – Daughter-in-law,Kalaburagi,2020-04-12,F,24.0,20-40
+220,221,12 April 2020,27 Apr,OS,2,"History of SARI and Travel history to Ichalkaranji, Maharashtra. Spread to 29 cases.",Vijayapura,2020-04-12,F,60.0,40-60
+221,222,12 April 2020,1 may,U,4,P177,Kalaburagi,2020-04-12,F,38.0,20-40
 222,223,12 April 2020,,TJ,3,P150 Contact,Belagavi,2020-04-12,M,19.0,12-20
-223,224,12 April 2020,,TJ,3,P128 (TJ visitor) Contact. Spread to 7 cases.,Belagavi,2020-04-12,M,38.0,20-40
-224,225,12 April 2020,,TJ,3,P150 Contact,Belagavi,2020-04-12,M,55.0,40-60
-225,226,12 April 2020,,TJ,3,P150 Contact,Belagavi,2020-04-12,M,25.0,20-40
-226,227,12 April 2020,,U,3,History of SARI,Kalaburagi,2020-04-12,M,2.0,<3
+223,224,12 April 2020,6 May,TJ,3,P128 (TJ visitor) Contact. Spread to 7 cases.,Belagavi,2020-04-12,M,38.0,20-40
+224,225,12 April 2020,6 May,TJ,3,P150 Contact,Belagavi,2020-04-12,M,55.0,40-60
+225,226,12 April 2020,2 may,TJ,3,P150 Contact,Belagavi,2020-04-12,M,25.0,20-40
+226,227,12 April 2020,1 may,U,3,History of SARI,Kalaburagi,2020-04-12,M,2.0,<3
 227,228,12 April 2020,27 Apr,OS,2,"Travel history to Pune, Maharashtra",Vijayapura,2020-04-12,M,13.0,12-20
 228,229,12 April 2020,27 Apr,OS,2,Maharashtra Travel,Vijayapura,2020-04-12,F,12.0,3-12
 229,230,12 April 2020,27 Apr,OS,2,Maharashtra Travel,Vijayapura,2020-04-12,M,10.0,3-12
 230,231,12 April 2020,27 Apr,OS,2,Maharashtra Travel,Vijayapura,2020-04-12,M,49.0,40-60
 231,232,12 April 2020,27 Apr,OS,2,Maharashtra Travel,Vijayapura,2020-04-12,F,20.0,12-20
-232,233,13 April 2020,,DT,3,P194 - Contact,Dharwad,2020-04-13,M,55.0,40-60
-233,234,13 April 2020,,DT,3,P194 - Contact,Dharwad,2020-04-13,M,36.0,20-40
-234,235,13 April 2020,,DT,3,P194 - Contact,Dharwad,2020-04-13,F,74.0,60+
-235,236,13 April 2020,,DT,3,P194 - Contact,Dharwad,2020-04-13,M,37.0,20-40
-236,237,13 April 2020,,DT,4,P179 - Mother,Mandya,2020-04-13,F,60.0,40-60
-237,238,13 April 2020,,DT,4,P179 - Daughter,Mandya,2020-04-13,F,8.0,3-12
-238,239,13 April 2020,,DT,4,P179 - Sister's son,Mandya,2020-04-13,M,18.0,12-20
-239,240,13 April 2020,,TJ,3,P164 - Contact,Bagalkote,2020-04-13,M,27.0,20-40
-240,241,13 April 2020,,TJ,4,P211 - Brother's daughter,Bidar,2020-04-13,F,16.0,12-20
-241,242,13 April 2020,,TJ,4,P211 - Daughter,Bidar,2020-04-13,F,35.0,20-40
-242,243,13 April 2020,,TJ,3,P149 - Contact,Belagavi,2020-04-13,M,20.0,12-20
-243,244,13 April 2020,,TJ,3,P149 - Contact,Belagavi,2020-04-13,M,14.0,12-20
-244,245,13 April 2020,,TJ,3,P149 - Contact,Belagavi,2020-04-13,M,45.0,40-60
+232,233,13 April 2020,4 May,DT,3,P194 – Contact,Dharwad,2020-04-13,M,55.0,40-60
+233,234,13 April 2020,2 may,DT,3,P194 – Contact,Dharwad,2020-04-13,M,36.0,20-40
+234,235,13 April 2020,2 may,DT,3,P194 – Contact,Dharwad,2020-04-13,F,74.0,60+
+235,236,13 April 2020,4 May,DT,3,P194 – Contact,Dharwad,2020-04-13,M,37.0,20-40
+236,237,13 April 2020,6 May,DT,4,P179 – Mother,Mandya,2020-04-13,F,60.0,40-60
+237,238,13 April 2020,4 May,DT,4,P179 – Daughter,Mandya,2020-04-13,F,8.0,3-12
+238,239,13 April 2020,4 May,DT,4,P179 – Sister's son,Mandya,2020-04-13,M,18.0,12-20
+239,240,13 April 2020,7 May,TJ,3,P164 – Contact,Bagalkote,2020-04-13,M,27.0,20-40
+240,241,13 April 2020,7 May,TJ,4,P211 – Brother's daughter,Bidar,2020-04-13,F,16.0,12-20
+241,242,13 April 2020,7 May,TJ,4,P211 – Daughter,Bidar,2020-04-13,F,35.0,20-40
+242,243,13 April 2020,6 May,TJ,3,P149 – Contact,Belagavi,2020-04-13,M,20.0,12-20
+243,244,13 April 2020,6 May,TJ,3,P149 – Contact,Belagavi,2020-04-13,M,14.0,12-20
+244,245,13 April 2020,6 May,TJ,3,P149 – Contact,Belagavi,2020-04-13,M,45.0,40-60
 245,246,13 April 2020,28 Apr,DT,2,Travel history to Delhi,Bengaluru Rural,2020-04-13,M,39.0,20-40
-246,247,13 April 2020,,U,3,History of SARI,Bengaluru,2020-04-13,M,62.0,60+
-247,248,14 April 2020,,U,5,P165 and P186 - Contact,Bagalkote,2020-04-14,M,43.0,40-60
-248,249,14 April 2020,,U,5,P165 and P186 - Contact,Bagalkote,2020-04-14,M,43.0,40-60
+246,247,13 April 2020,3 May,U,3,History of SARI,Bengaluru,2020-04-13,M,62.0,60+
+247,248,14 April 2020,3 May,U,5,P165 and P186 – Contact,Bagalkote,2020-04-14,M,43.0,40-60
+248,249,14 April 2020,3 May,U,5,P165 and P186 – Contact,Bagalkote,2020-04-14,M,43.0,40-60
 249,250,14 April 2020,15 Apr,U,3,History of SARI,Chikkaballapur,2020-04-14,M,65.0,60+
-250,251,14 April 2020,,U,4,P125 - Neighbour,Bagalkote,2020-04-14,F,39.0,20-40
+250,251,14 April 2020,3 May,U,4,P125 – Neighbour,Bagalkote,2020-04-14,F,39.0,20-40
 251,252,14 April 2020,14 Apr,U,3,History of SARI,Bengaluru,2020-04-14,M,65.0,60+
-252,253,14 April 2020,,U,3,History of travel from Hindupur by 2 wheeler,Bengaluru,2020-04-14,M,26.0,20-40
-253,254,14 April 2020,,U,4,P177 - Contact,Kalaburagi,2020-04-14,F,10.0,3-12
-254,255,14 April 2020,,U,4,P205 - Brother's brother,Kalaburagi,2020-04-14,M,51.0,40-60
-255,256,14 April 2020,,U,4,P177 - Contact,Kalaburagi,2020-04-14,F,35.0,20-40
-256,257,14 April 2020,14 Apr,OS,3,P221 - Husband,Vijayapura,2020-04-14,M,69.0,60+
+252,253,14 April 2020,2 may,U,3,History of travel from Hindupur by 2 wheeler,Bengaluru,2020-04-14,M,26.0,20-40
+253,254,14 April 2020,2 may,U,4,P177 – Contact,Kalaburagi,2020-04-14,F,10.0,3-12
+254,255,14 April 2020,2 may,U,4,P205 – Brother's brother,Kalaburagi,2020-04-14,M,51.0,40-60
+255,256,14 April 2020,2 may,U,4,P177 – Contact,Kalaburagi,2020-04-14,F,35.0,20-40
+256,257,14 April 2020,14 Apr,OS,3,P221 – Husband,Vijayapura,2020-04-14,M,69.0,60+
 257,258,14 April 2020,,DT,2,Travel history to Delhi,Belagavi,2020-04-14,M,33.0,20-40
-258,259,14 April 2020,,TJ,4,P199 - Contact,Bengaluru,2020-04-14,F,35.0,20-40
-259,260,14 April 2020,,P2P,3,P176 - husband,Uttara Kannada,2020-04-14,M,36.0,20-40
+258,259,14 April 2020,,TJ,4,P199 – Contact,Bengaluru,2020-04-14,F,35.0,20-40
+259,260,14 April 2020,1 may,P2P,3,P176 – husband,Uttara Kannada,2020-04-14,M,36.0,20-40
 260,261,15 April 2020,30 Apr,U,3,History of SARI,Bengaluru,2020-04-15,M,59.0,40-60
-261,262,15 April 2020,,U,6,P186 - Contact,Bagalkote,2020-04-15,M,52.0,40-60
-262,263,15 April 2020,,U,5,"Police on duty at Madarasa, Mudhol",Bagalkote,2020-04-15,M,39.0,20-40
+261,262,15 April 2020,6 May,U,6,P186 – Contact,Bagalkote,2020-04-15,M,52.0,40-60
+262,263,15 April 2020,6 May,U,5,"Police on duty at Madarasa, Mudhol",Bagalkote,2020-04-15,M,39.0,20-40
 263,264,15 April 2020,27 Apr,NP,4,Pharma co-worker,Mysuru,2020-04-15,M,41.0,40-60
-264,265,15 April 2020,,NP,4,Pharma co-worker,Mysuru,2020-04-15,M,30.0,20-40
+264,265,15 April 2020,3 May,NP,4,Pharma co-worker,Mysuru,2020-04-15,M,30.0,20-40
 265,266,15 April 2020,27 Apr,NP,4,Pharma co-worker,Mysuru,2020-04-15,M,27.0,20-40
-266,267,15 April 2020,,NP,4,Pharma co-worker,Mysuru,2020-04-15,M,35.0,20-40
-267,268,15 April 2020,,NP,4,Pharma co-worker,Mysuru,2020-04-15,M,26.0,20-40
+266,267,15 April 2020,3 May,NP,4,Pharma co-worker,Mysuru,2020-04-15,M,35.0,20-40
+267,268,15 April 2020,7 May,NP,4,Pharma co-worker,Mysuru,2020-04-15,M,26.0,20-40
 268,269,15 April 2020,27 Apr,NP,4,Pharma co-worker,Mysuru,2020-04-15,M,23.0,20-40
 269,270,15 April 2020,30 Apr,NP,4,Pharma co-worker,Mysuru,2020-04-15,M,35.0,20-40
 270,271,15 April 2020,27 Apr,NP,4,Pharma co-worker,Mysuru,2020-04-15,M,28.0,20-40
-271,272,15 April 2020,,NP,4,Pharma co-worker,Mysuru,2020-04-15,M,32.0,20-40
+271,272,15 April 2020,5 May,NP,4,Pharma co-worker,Mysuru,2020-04-15,M,32.0,20-40
 272,273,15 April 2020,29 Apr,U,3,History of SARI,Mysuru,2020-04-15,M,72.0,60+
-273,274,15 April 2020,,U,3,Influenza like Illness (ILI),Kalaburagi,2020-04-15,M,1.0,<3
-274,275,15 April 2020,,OS,3,P221 - Contact,Vijayapura,2020-04-15,F,38.0,20-40
-275,276,15 April 2020,,OS,3,P221 - Contact,Vijayapura,2020-04-15,M,25.0,20-40
-276,277,15 April 2020,30 Apr,U,4,P252 - Contact,Bengaluru,2020-04-15,F,32.0,20-40
-277,278,15 April 2020,,OS,3,P221 - Contact,Vijayapura,2020-04-15,F,28.0,20-40
-278,279,15 April 2020,15 Apr,TJ,4,P224 - Contact,Belagavi,2020-04-15,F,80.0,60+
-279,280,16 April 2020,30 Apr,U,4,P252 - Contact,Bengaluru,2020-04-16,M,13.0,12-20
+273,274,15 April 2020,1 may,U,3,Influenza like Illness (ILI),Kalaburagi,2020-04-15,M,1.0,<3
+274,275,15 April 2020,,OS,3,P221 – Contact,Vijayapura,2020-04-15,F,38.0,20-40
+275,276,15 April 2020,3 May,OS,3,P221 – Contact,Vijayapura,2020-04-15,M,25.0,20-40
+276,277,15 April 2020,30 Apr,U,4,P252 – Contact,Bengaluru,2020-04-15,F,32.0,20-40
+277,278,15 April 2020,,OS,3,P221 – Contact,Vijayapura,2020-04-15,F,28.0,20-40
+278,279,15 April 2020,15 Apr,TJ,4,P224 – Contact,Belagavi,2020-04-15,F,80.0,60+
+279,280,16 April 2020,30 Apr,U,4,P252 – Contact,Bengaluru,2020-04-16,M,13.0,12-20
 280,281,16 April 2020,19 Apr,U,3,History of SARI,Bengaluru,2020-04-16,F,65.0,60+
-281,282,16 April 2020,,TJ,4,P225 - Contact,Belagavi,2020-04-16,F,51.0,40-60
-282,283,16 April 2020,,TJ,4,P224 - Contact,Belagavi,2020-04-16,M,42.0,40-60
-283,284,16 April 2020,,TJ,4,P225 - Contact,Belagavi,2020-04-16,M,33.0,20-40
-284,285,16 April 2020,,TJ,4,P224 - Contact,Belagavi,2020-04-16,F,16.0,12-20
-285,286,16 April 2020,,TJ,4,P224 - Contact,Belagavi,2020-04-16,F,65.0,60+
-286,287,16 April 2020,,TJ,4,P224 - Contact,Belagavi,2020-04-16,F,30.0,20-40
-287,288,16 April 2020,,TJ,4,P224 - Contact,Belagavi,2020-04-16,F,54.0,40-60
-288,289,16 April 2020,,TJ,4,P224 - Contact,Belagavi,2020-04-16,F,58.0,40-60
+281,282,16 April 2020,2 may,TJ,4,P225 – Contact,Belagavi,2020-04-16,F,51.0,40-60
+282,283,16 April 2020,2 may,TJ,4,P224 – Contact,Belagavi,2020-04-16,M,42.0,40-60
+283,284,16 April 2020,,TJ,4,P225 – Contact,Belagavi,2020-04-16,M,33.0,20-40
+284,285,16 April 2020,2 may,TJ,4,P224 – Contact,Belagavi,2020-04-16,F,16.0,12-20
+285,286,16 April 2020,2 may,TJ,4,P224 – Contact,Belagavi,2020-04-16,F,65.0,60+
+286,287,16 April 2020,,TJ,4,P224 – Contact,Belagavi,2020-04-16,F,30.0,20-40
+287,288,16 April 2020,2 may,TJ,4,P224 – Contact,Belagavi,2020-04-16,F,54.0,40-60
+288,289,16 April 2020,6 May,TJ,4,P224 – Contact,Belagavi,2020-04-16,F,58.0,40-60
 289,290,16 April 2020,23 Apr,U,3,Unknown,Bengaluru,2020-04-16,F,54.0,40-60
 290,291,16 April 2020,,U,3,Unknown,Bengaluru,2020-04-16,M,37.0,20-40
 291,292,16 April 2020,30 Apr,U,3,Unknown,Bengaluru,2020-04-16,M,43.0,40-60
-292,293,16 April 2020,,DT,2,Travel history to Delhi,Belagavi,2020-04-16,M,47.0,40-60
-293,294,16 April 2020,,DT,2,Travel history to Delhi,Belagavi,2020-04-16,M,25.0,20-40
-294,295,16 April 2020,,DT,2,Travel history to Delhi,Belagavi,2020-04-16,F,45.0,40-60
-295,296,16 April 2020,,DT,2,Travel history to Delhi,Belagavi,2020-04-16,M,30.0,20-40
-296,297,16 April 2020,,DT,2,Travel history to Delhi,Belagavi,2020-04-16,M,43.0,40-60
-297,298,16 April 2020,,TJ,4,P245 - Contact,Belagavi,2020-04-16,M,50.0,40-60
-298,299,16 April 2020,,TJ,4,P245 - Contact,Belagavi,2020-04-16,M,35.0,20-40
-299,300,16 April 2020,,TJ,4,P245 - Contact,Belagavi,2020-04-16,M,25.0,20-40
-300,301,16 April 2020,,TJ,4,P245 - Contact,Belagavi,2020-04-16,M,64.0,60+
-301,302,16 April 2020,30 Apr,U,4,P274 (ILI) - Contact,Kalaburagi,2020-04-16,F,23.0,20-40
+292,293,16 April 2020,4 May,DT,2,Travel history to Delhi,Belagavi,2020-04-16,M,47.0,40-60
+293,294,16 April 2020,6 May,DT,2,Travel history to Delhi,Belagavi,2020-04-16,M,25.0,20-40
+294,295,16 April 2020,4 May,DT,2,Travel history to Delhi,Belagavi,2020-04-16,F,45.0,40-60
+295,296,16 April 2020,4 May,DT,2,Travel history to Delhi,Belagavi,2020-04-16,M,30.0,20-40
+296,297,16 April 2020,4 May,DT,2,Travel history to Delhi,Belagavi,2020-04-16,M,43.0,40-60
+297,298,16 April 2020,6 May,TJ,4,P245 – Contact,Belagavi,2020-04-16,M,50.0,40-60
+298,299,16 April 2020,4 May,TJ,4,P245 – Contact,Belagavi,2020-04-16,M,35.0,20-40
+299,300,16 April 2020,,TJ,4,P245 – Contact,Belagavi,2020-04-16,M,25.0,20-40
+300,301,16 April 2020,4 May,TJ,4,P245 – Contact,Belagavi,2020-04-16,M,64.0,60+
+301,302,16 April 2020,30 Apr,U,4,P274 (ILI) – Contact,Kalaburagi,2020-04-16,F,23.0,20-40
 302,303,16 April 2020,,NP,4,Pharma co-worker,Mysuru,2020-04-16,M,52.0,40-60
-303,304,16 April 2020,,U,4,P166 - Contact,Gadag,2020-04-16,F,59.0,40-60
-304,305,16 April 2020,,OS,3,P221 - Contact,Vijayapura,2020-04-16,M,12.0,3-12
-305,306,16 April 2020,,OS,3,P221 - Contact,Vijayapura,2020-04-16,M,65.0,60+
-306,307,16 April 2020,,OS,3,P221 - Contact,Vijayapura,2020-04-16,M,66.0,60+
-307,308,16 April 2020,,OS,3,P221 - Contact,Vijayapura,2020-04-16,M,37.0,20-40
-308,309,16 April 2020,,OS,3,P221 - Contact,Vijayapura,2020-04-16,F,70.0,60+
-309,310,16 April 2020,,OS,3,P228 & 232 - Contact,Vijayapura,2020-04-16,F,1.5,<3
+303,304,16 April 2020,1 may,U,4,P166 – Contact,Gadag,2020-04-16,F,59.0,40-60
+304,305,16 April 2020,3 May,OS,3,P221 – Contact,Vijayapura,2020-04-16,M,12.0,3-12
+305,306,16 April 2020,1 may,OS,3,P221 – Contact,Vijayapura,2020-04-16,M,65.0,60+
+306,307,16 April 2020,1 may,OS,3,P221 – Contact,Vijayapura,2020-04-16,M,66.0,60+
+307,308,16 April 2020,1 may,OS,3,P221 – Contact,Vijayapura,2020-04-16,M,37.0,20-40
+308,309,16 April 2020,5 May,OS,3,P221 – Contact,Vijayapura,2020-04-16,F,70.0,60+
+309,310,16 April 2020,1 may,OS,3,P228 & 232 – Contact,Vijayapura,2020-04-16,F,1.5,<3
 310,311,16 April 2020,28 Apr,NP,4,Pharma co-worker,Mysuru,2020-04-16,M,38.0,20-40
-311,312,16 April 2020,28 Apr,NP,4,P77 - Wife,Mysuru,2020-04-16,F,26.0,20-40
-312,313,16 April 2020,,OS,3,P221 - Contact,Vijayapura,2020-04-16,F,55.0,40-60
-313,314,16 April 2020,,U,3,Influenza like Illness (ILI),Kalaburagi,2020-04-16,M,32.0,20-40
-314,315,16 April 2020,,U,3,Unknown,Kalaburagi,2020-04-16,M,5.0,3-12
-315,316,17 April 2020,,TJ,3,P167 and P168 - Contact,Bengaluru,2020-04-17,M,55.0,40-60
-316,317,17 April 2020,,TJ,3,P167 and P168 - Contact,Bengaluru,2020-04-17,F,11.0,3-12
-317,318,17 April 2020,29 Apr,NP,3,P52 - Contact,Mysuru,2020-04-17,M,50.0,40-60
-318,319,17 April 2020,,NP,3,P52 - Contact,Mysuru,2020-04-17,M,33.0,20-40
-319,320,17 April 2020,,NP,3,P52 - Contact,Mysuru,2020-04-17,M,33.0,20-40
-320,321,17 April 2020,30 Apr,U,4,P273 - Contact,Mysuru,2020-04-17,F,41.0,40-60
-321,322,17 April 2020,,DT,4,P171 - Contact,Mandya,2020-04-17,M,25.0,20-40
-322,323,17 April 2020,,DT,4,P171 - Contact,Mandya,2020-04-17,M,29.0,20-40
-323,324,17 April 2020,,DT,4,P171 - Contact,Mandya,2020-04-17,M,45.0,40-60
-324,325,17 April 2020,,DT,3,Travel history to Delhi,Dakshina Kannada,2020-04-17,M,39.0,20-40
-325,326,17 April 2020,,U,4,P252 - Contact,Bengaluru,2020-04-17,M,6.0,3-12
-326,327,17 April 2020,,U,4,P252 - Contact,Bengaluru,2020-04-17,F,25.0,20-40
-327,328,17 April 2020,,DT,3,Contact with Delhi traveled person,Bidar,2020-04-17,M,18.0,12-20
-328,329,17 April 2020,,OS,3,P221 - Contact,Vijayapura,2020-04-17,M,6.0,3-12
-329,330,17 April 2020,,OS,3,P221 - Contact,Vijayapura,2020-04-17,F,28.0,20-40
-330,331,17 April 2020,,U,4,"P89,P90,P91 and P141 - Contact",Ballari,2020-04-17,M,39.0,20-40
-331,332,17 April 2020,,U,4,P141 - Contact,Ballari,2020-04-17,F,68.0,60+
-332,333,17 April 2020,,U,4,P141 - Contact,Ballari,2020-04-17,M,21.0,20-40
-333,334,17 April 2020,,U,4,P141 - Contact,Ballari,2020-04-17,M,48.0,40-60
-334,335,17 April 2020,,U,4,P141 - Contact,Ballari,2020-04-17,F,10.0,3-12
-335,336,17 April 2020,,U,4,P141 - Contact,Ballari,2020-04-17,M,50.0,40-60
-336,337,17 April 2020,,U,4,P141 - Contact,Ballari,2020-04-17,M,24.0,20-40
-337,338,17 April 2020,,U,4,P250 - Contact,Chikkaballapur,2020-04-17,M,36.0,20-40
-338,339,17 April 2020,,U,4,P250 - Contact,Chikkaballapur,2020-04-17,M,20.0,12-20
-339,340,17 April 2020,,U,4,P250 - Contact,Chikkaballapur,2020-04-17,M,9.0,3-12
-340,341,17 April 2020,,NP,3,P52 - Contact,Mysuru,2020-04-17,M,22.0,20-40
-341,342,17 April 2020,29 Apr,NP,3,P52 - Contact,Mysuru,2020-04-17,M,38.0,20-40
-342,343,17 April 2020,29 Apr,NP,3,P52 - Contact,Mysuru,2020-04-17,M,38.0,20-40
-343,344,17 April 2020,,NP,3,P52 - Contact,Mysuru,2020-04-17,M,26.0,20-40
-344,345,17 April 2020,29 Apr,NP,3,P52 - Contact,Mysuru,2020-04-17,M,28.0,20-40
-345,346,17 April 2020,29 Apr,NP,3,P52 - Contact,Mysuru,2020-04-17,M,22.0,20-40
-346,347,17 April 2020,29 Apr,NP,3,P52 - Contact,Mysuru,2020-04-17,M,29.0,20-40
-347,348,17 April 2020,29 Apr,NP,3,P52 - Contact,Mysuru,2020-04-17,M,26.0,20-40
+311,312,16 April 2020,28 Apr,NP,4,P77 – Wife,Mysuru,2020-04-16,F,26.0,20-40
+312,313,16 April 2020,3 May,OS,3,P221 – Contact,Vijayapura,2020-04-16,F,55.0,40-60
+313,314,16 April 2020,2 may,U,3,Influenza like Illness (ILI),Kalaburagi,2020-04-16,M,32.0,20-40
+314,315,16 April 2020,2 may,U,3,Unknown,Kalaburagi,2020-04-16,M,5.0,3-12
+315,316,17 April 2020,1 may,TJ,3,P167 and P168 – Contact,Bengaluru,2020-04-17,M,55.0,40-60
+316,317,17 April 2020,1 may,TJ,3,P167 and P168 – Contact,Bengaluru,2020-04-17,F,11.0,3-12
+317,318,17 April 2020,29 Apr,NP,3,P52 – Contact,Mysuru,2020-04-17,M,50.0,40-60
+318,319,17 April 2020,,NP,3,P52 – Contact,Mysuru,2020-04-17,M,33.0,20-40
+319,320,17 April 2020,3 May,NP,3,P52 – Contact,Mysuru,2020-04-17,M,33.0,20-40
+320,321,17 April 2020,30 Apr,U,4,P273 – Contact,Mysuru,2020-04-17,F,41.0,40-60
+321,322,17 April 2020,6 May,DT,4,P171 – Contact,Mandya,2020-04-17,M,25.0,20-40
+322,323,17 April 2020,6 May,DT,4,P171 – Contact,Mandya,2020-04-17,M,29.0,20-40
+323,324,17 April 2020,,DT,4,P171 – Contact,Mandya,2020-04-17,M,45.0,40-60
+324,325,17 April 2020,6 May,DT,2,Travel history to Delhi,Dakshina Kannada,2020-04-17,M,39.0,20-40
+325,326,17 April 2020,1 may,U,4,P252 – Contact,Bengaluru,2020-04-17,M,6.0,3-12
+326,327,17 April 2020,1 may,U,4,P252 – Contact,Bengaluru,2020-04-17,F,25.0,20-40
+327,328,17 April 2020,7 May,DT,3,Contact with Delhi traveled person,Bidar,2020-04-17,M,18.0,12-20
+328,329,17 April 2020,5 May,OS,3,P221 – Contact,Vijayapura,2020-04-17,M,6.0,3-12
+329,330,17 April 2020,5 May,OS,3,P221 – Contact,Vijayapura,2020-04-17,F,28.0,20-40
+330,331,17 April 2020,,U,4,"P89,P90,P91 and P141 – Contact",Ballari,2020-04-17,M,39.0,20-40
+331,332,17 April 2020,7 May,U,4,P141 – Contact,Ballari,2020-04-17,F,68.0,60+
+332,333,17 April 2020,1 May,U,4,P141 – Contact,Ballari,2020-04-17,M,21.0,20-40
+333,334,17 April 2020,8 May,U,4,P141 – Contact,Ballari,2020-04-17,M,48.0,40-60
+334,335,17 April 2020,8 May,U,4,P141 – Contact,Ballari,2020-04-17,F,10.0,3-12
+335,336,17 April 2020,3 May,U,4,P141 – Contact,Ballari,2020-04-17,M,50.0,40-60
+336,337,17 April 2020,1 may,U,4,P141 – Contact,Ballari,2020-04-17,M,24.0,20-40
+337,338,17 April 2020,,U,4,P250 – Contact,Chikkaballapur,2020-04-17,M,36.0,20-40
+338,339,17 April 2020,,U,4,P250 – Contact,Chikkaballapur,2020-04-17,M,20.0,12-20
+339,340,17 April 2020,3 May,U,4,P250 – Contact,Chikkaballapur,2020-04-17,M,9.0,3-12
+340,341,17 April 2020,,NP,3,P52 – Contact,Mysuru,2020-04-17,M,22.0,20-40
+341,342,17 April 2020,29 Apr,NP,3,P52 – Contact,Mysuru,2020-04-17,M,38.0,20-40
+342,343,17 April 2020,29 Apr,NP,3,P52 – Contact,Mysuru,2020-04-17,M,38.0,20-40
+343,344,17 April 2020,3 May,NP,3,P52 – Contact,Mysuru,2020-04-17,M,26.0,20-40
+344,345,17 April 2020,29 Apr,NP,3,P52 – Contact,Mysuru,2020-04-17,M,28.0,20-40
+345,346,17 April 2020,29 Apr,NP,3,P52 – Contact,Mysuru,2020-04-17,M,22.0,20-40
+346,347,17 April 2020,29 Apr,NP,3,P52 – Contact,Mysuru,2020-04-17,M,29.0,20-40
+347,348,17 April 2020,3 May,NP,3,P52 – Contact,Mysuru,2020-04-17,M,26.0,20-40
 348,349,17 April 2020,,U,3,History of SARI,Bengaluru,2020-04-17,F,64.0,60+
-349,350,17 April 2020,,TJ,3,P167 and P168 - Contact,Bengaluru,2020-04-17,M,32.0,20-40
-350,351,17 April 2020,,TJ,3,P167 and P168 - Contact,Bengaluru,2020-04-17,M,23.0,20-40
-351,352,17 April 2020,,TJ,3,P167 and P168 - Contact,Bengaluru,2020-04-17,M,28.0,20-40
-352,353,17 April 2020,,TJ,3,P167 and P168 - Contact,Bengaluru,2020-04-17,M,21.0,20-40
-353,354,17 April 2020,,U,3,History of SARI,Bengaluru,2020-04-17,F,65.0,60+
-354,355,17 April 2020,,TJ,3,P127 - Contact,Belagavi,2020-04-17,M,34.0,20-40
-355,356,17 April 2020,,TJ,3,P127 - Contact,Belagavi,2020-04-17,M,17.0,12-20
-356,357,17 April 2020,,TJ,3,P127 - Contact,Belagavi,2020-04-17,M,46.0,40-60
-357,358,17 April 2020,,TJ,3,P127 - Contact,Belagavi,2020-04-17,M,37.0,20-40
-358,359,17 April 2020,,TJ,3,P127 - Contact,Belagavi,2020-04-17,M,38.0,20-40
-359,360,18 April 2020,,DT,4,P205 - Contact,Kalaburagi,2020-04-18,M,34.0,20-40
-360,361,18 April 2020,,TJ,5,P174 - Contact,Kalaburagi,2020-04-18,M,38.0,20-40
-361,362,18 April 2020,,OS,3,P221 - Contact,Vijayapura,2020-04-18,M,16.0,12-20
-362,363,18 April 2020,,DT,4,P236 - Secondary Contact,Dharwad,2020-04-18,M,60.0,40-60
-363,364,18 April 2020,,TJ,3,P128 - Contact,Belagavi,2020-04-18,M,45.0,40-60
-364,365,18 April 2020,30 Apr,NP,3,P52 - Secondary Contact,Mysuru,2020-04-18,M,30.0,20-40
-365,366,18 April 2020,30 Apr,NP,3,P52 - Secondary Contact,Mysuru,2020-04-18,M,50.0,40-60
-366,367,18 April 2020,,U,6,P186 - Secondary Contact,Bagalkote,2020-04-18,M,65.0,60+
-367,368,18 April 2020,,U,6,P186 - Secondary Contact,Bagalkote,2020-04-18,F,48.0,40-60
+349,350,17 April 2020,1 may,TJ,3,P167 and P168 – Contact,Bengaluru,2020-04-17,M,32.0,20-40
+350,351,17 April 2020,1 may,TJ,3,P167 and P168 – Contact,Bengaluru,2020-04-17,M,23.0,20-40
+351,352,17 April 2020,1 may,TJ,3,P167 and P168 – Contact,Bengaluru,2020-04-17,M,28.0,20-40
+352,353,17 April 2020,1 may,TJ,3,P167 and P168 – Contact,Bengaluru,2020-04-17,M,21.0,20-40
+353,354,17 April 2020,4 May,U,3,History of SARI,Bengaluru,2020-04-17,F,65.0,60+
+354,355,17 April 2020,4 May,TJ,3,P127 – Contact,Belagavi,2020-04-17,M,34.0,20-40
+355,356,17 April 2020,4 May,TJ,3,P127 – Contact,Belagavi,2020-04-17,M,17.0,12-20
+356,357,17 April 2020,,TJ,3,P127 – Contact,Belagavi,2020-04-17,M,46.0,40-60
+357,358,17 April 2020,4 May,TJ,3,P127 – Contact,Belagavi,2020-04-17,M,37.0,20-40
+358,359,17 April 2020,4 May,TJ,3,P127 – Contact,Belagavi,2020-04-17,M,38.0,20-40
+359,360,18 April 2020,4 May,DT,4,P205 – Contact,Kalaburagi,2020-04-18,M,34.0,20-40
+360,361,18 April 2020,4 May,TJ,5,P174 – Contact,Kalaburagi,2020-04-18,M,38.0,20-40
+361,362,18 April 2020,1 may,OS,3,P221 – Contact,Vijayapura,2020-04-18,M,16.0,12-20
+362,363,18 April 2020,,DT,4,P236 – Secondary Contact,Dharwad,2020-04-18,M,60.0,40-60
+363,364,18 April 2020,,TJ,3,P128 – Contact,Belagavi,2020-04-18,M,45.0,40-60
+364,365,18 April 2020,30 Apr,NP,3,P52 – Secondary Contact,Mysuru,2020-04-18,M,30.0,20-40
+365,366,18 April 2020,30 Apr,NP,3,P52 – Secondary Contact,Mysuru,2020-04-18,M,50.0,40-60
+366,367,18 April 2020,5 May,U,6,P186 – Secondary Contact,Bagalkote,2020-04-18,M,65.0,60+
+367,368,18 April 2020,5 May,U,6,P186 – Secondary Contact,Bagalkote,2020-04-18,F,48.0,40-60
 368,369,18 April 2020,,U,3,History of SARI,Mysuru,2020-04-18,M,65.0,60+
-369,370,18 April 2020,,U,5,P304 - Secondary Contact,Gadag,2020-04-18,M,42.0,40-60
-370,371,18 April 2020,,DT,3,P134 and P138 - Contact,Mandya,2020-04-18,M,39.0,20-40
-371,372,18 April 2020,,U,6,P263 - Contact,Bagalkote,2020-04-18,M,32.0,20-40
-372,373,18 April 2020,,U,6,P263 - Contact,Bagalkote,2020-04-18,M,32.0,20-40
-373,374,18 April 2020,16 Apr,OS,4,P306 and P308 - Contact,Vijayapura,2020-04-18,M,42.0,40-60
-374,375,18 April 2020,,NP,5,P267 - Wife,Mysuru,2020-04-18,F,26.0,20-40
-375,376,18 April 2020,,TJ,3,P167 - Contact,Bengaluru,2020-04-18,F,55.0,40-60
-376,377,18 April 2020,,TJ,3,P167 - Contact,Bengaluru,2020-04-18,F,50.0,40-60
-377,378,18 April 2020,,TJ,3,P167 - Contact,Bengaluru,2020-04-18,F,21.0,20-40
-378,379,18 April 2020,,U,6,P263 - Contact,Bagalkote,2020-04-18,M,43.0,40-60
-379,380,18 April 2020,,U,6,P263 - Contact,Bagalkote,2020-04-18,M,43.0,40-60
-380,381,18 April 2020,,U,3,Influenza like Illness (ILI),Bagalkote,2020-04-18,M,47.0,40-60
-381,382,18 April 2020,,NP,3,P52 - Secondary Contact,Mysuru,2020-04-18,M,30.0,20-40
-382,383,18 April 2020,,NP,3,P52 - Secondary Contact,Mysuru,2020-04-18,M,36.0,20-40
-383,384,18 April 2020,,NP,3,P52 - Secondary Contact,Mysuru,2020-04-18,M,28.0,20-40
-384,385,19 April 2020,,DT,3,Travel history to Delhi,Mysuru,2020-04-19,M,46.0,40-60
-385,386,19 April 2020,,DT,3,Travel history to Delhi,Mysuru,2020-04-19,M,20.0,12-20
-386,387,19 April 2020,,NP,3,P52 - Secondary Contact,Mysuru,2020-04-19,M,39.0,20-40
-387,388,19 April 2020,,NP,4,P319 - Contact,Mysuru,2020-04-19,F,23.0,20-40
-388,389,19 April 2020,,DT,4,P325 - Wife,Dakshina Kannada,2020-04-19,F,30.0,20-40
-389,390,19 April 2020,19 Apr,U,4,History of SARI,Dakshina Kannada,2020-04-19,F,50.0,40-60
-390,391,20 April 2020,,U,4,P175 - Contact,Kalaburagi,2020-04-20,M,17.0,12-20
-391,392,20 April 2020,,DT,4,P205 - Contact,Kalaburagi,2020-04-20,M,13.0,12-20
-392,393,20 April 2020,,DT,4,P205 - Contact,Kalaburagi,2020-04-20,F,30.0,20-40
-393,394,20 April 2020,,U,4,P177 - Contact,Kalaburagi,2020-04-20,M,50.0,40-60
-394,395,20 April 2020,,DT,4,P205 - Contact,Kalaburagi,2020-04-20,M,19.0,12-20
-395,396,20 April 2020,,U,6,P370 - Secondary Contact,Gadag,2020-04-20,M,24.0,20-40
-396,397,20 April 2020,,OS,3,P221 - Contact,Vijayapura,2020-04-20,F,7.0,3-12
-397,398,20 April 2020,,OS,3,P221 - Contact,Vijayapura,2020-04-20,M,36.0,20-40
-398,399,20 April 2020,,OS,3,P221 - Contact,Vijayapura,2020-04-20,F,27.0,20-40
-399,400,20 April 2020,,OS,3,P221 - Contact,Vijayapura,2020-04-20,F,25.0,20-40
-400,401,20 April 2020,,OS,4,P362 - Contact,Vijayapura,2020-04-20,F,21.0,20-40
-401,402,20 April 2020,,OS,4,P362 - Contact,Vijayapura,2020-04-20,M,28.0,20-40
-402,403,20 April 2020,,OS,4,P362 - Contact,Vijayapura,2020-04-20,F,47.0,40-60
-403,404,20 April 2020,,OS,3,P221 - Contact,Vijayapura,2020-04-20,M,10.0,3-12
-404,405,20 April 2020,,OS,3,P228 - Contact,Vijayapura,2020-04-20,F,34.0,20-40
-405,406,20 April 2020,,OS,3,P221 - Contact,Vijayapura,2020-04-20,F,38.0,20-40
-406,407,20 April 2020,,OS,3,P221 - Contact,Vijayapura,2020-04-20,M,14.0,12-20
-407,408,20 April 2020,,TJ,3,P117 - Contact,Bidar,2020-04-20,M,27.0,20-40
-408,409,21 April 2020,,U,3,History of SARI,Dakshina Kannada,2020-04-21,F,67.0,60+
-409,410,21 April 2020,,OS,4,P306 - Contact,Vijayapura,2020-04-21,F,18.0,12-20
-410,411,21 April 2020,,OS,4,P306 - Contact,Vijayapura,2020-04-21,F,30.0,20-40
-411,412,21 April 2020,,U,3,Influenza Like Illness (ILI),Kalaburagi,2020-04-21,M,29.0,20-40
-412,413,21 April 2020,,U,3,Under Investigation,Kalaburagi,2020-04-21,M,61.0,60+
+369,370,18 April 2020,,U,5,P304 – Secondary Contact,Gadag,2020-04-18,M,42.0,40-60
+370,371,18 April 2020,6 May,DT,3,P134 and P138 – Contact,Mandya,2020-04-18,M,39.0,20-40
+371,372,18 April 2020,,U,6,P263 – Contact,Bagalkote,2020-04-18,M,32.0,20-40
+372,373,18 April 2020,6 May,U,6,P263 – Contact,Bagalkote,2020-04-18,M,32.0,20-40
+373,374,18 April 2020,16 Apr,OS,4,P306 and P308 – Contact,Vijayapura,2020-04-18,M,42.0,40-60
+374,375,18 April 2020,3 May,NP,5,P267 – Wife,Mysuru,2020-04-18,F,26.0,20-40
+375,376,18 April 2020,4 May,TJ,3,P167 – Contact,Bengaluru,2020-04-18,F,55.0,40-60
+376,377,18 April 2020,,TJ,3,P167 – Contact,Bengaluru,2020-04-18,F,50.0,40-60
+377,378,18 April 2020,4 May,TJ,3,P167 – Contact,Bengaluru,2020-04-18,F,21.0,20-40
+378,379,18 April 2020,6 May,U,6,P263 – Contact,Bagalkote,2020-04-18,M,43.0,40-60
+379,380,18 April 2020,,U,6,P263 – Contact,Bagalkote,2020-04-18,M,43.0,40-60
+380,381,18 April 2020,5 May,U,3,Influenza like Illness (ILI),Bagalkote,2020-04-18,M,47.0,40-60
+381,382,18 April 2020,4 May,NP,3,P52 – Secondary Contact,Mysuru,2020-04-18,M,30.0,20-40
+382,383,18 April 2020,1 may,NP,3,P52 – Secondary Contact,Mysuru,2020-04-18,M,36.0,20-40
+383,384,18 April 2020,5 May,NP,3,P52 – Secondary Contact,Mysuru,2020-04-18,M,28.0,20-40
+384,385,19 April 2020,,DT,2,Travel history to Delhi,Mysuru,2020-04-19,M,46.0,40-60
+385,386,19 April 2020,,DT,2,Travel history to Delhi,Mysuru,2020-04-19,M,20.0,12-20
+386,387,19 April 2020,5 May,NP,3,P52 – Secondary Contact,Mysuru,2020-04-19,M,39.0,20-40
+387,388,19 April 2020,3 May,NP,4,P319 – Contact,Mysuru,2020-04-19,F,23.0,20-40
+388,389,19 April 2020,,DT,3,P325 – Wife,Dakshina Kannada,2020-04-19,F,30.0,20-40
+389,390,19 April 2020,19 Apr,U,3,History of SARI,Dakshina Kannada,2020-04-19,F,50.0,40-60
+390,391,20 April 2020,5 May,U,4,P175 – Contact,Kalaburagi,2020-04-20,M,17.0,12-20
+391,392,20 April 2020,2 May,DT,4,P205 – Contact,Kalaburagi,2020-04-20,M,13.0,12-20
+392,393,20 April 2020,4 May,DT,4,P205 – Contact,Kalaburagi,2020-04-20,F,30.0,20-40
+393,394,20 April 2020,6 May,U,4,P177 – Contact,Kalaburagi,2020-04-20,M,50.0,40-60
+394,395,20 April 2020,6 May,DT,4,P205 – Contact,Kalaburagi,2020-04-20,M,19.0,12-20
+395,396,20 April 2020,,U,6,P370 – Secondary Contact,Gadag,2020-04-20,M,24.0,20-40
+396,397,20 April 2020,,OS,3,P221 – Contact,Vijayapura,2020-04-20,F,7.0,3-12
+397,398,20 April 2020,,OS,3,P221 – Contact,Vijayapura,2020-04-20,M,36.0,20-40
+398,399,20 April 2020,,OS,3,P221 – Contact,Vijayapura,2020-04-20,F,27.0,20-40
+399,400,20 April 2020,4 May,OS,3,P221 – Contact,Vijayapura,2020-04-20,F,25.0,20-40
+400,401,20 April 2020,,OS,4,P362 – Contact,Vijayapura,2020-04-20,F,21.0,20-40
+401,402,20 April 2020,,OS,4,P362 – Contact,Vijayapura,2020-04-20,M,28.0,20-40
+402,403,20 April 2020,4 May,OS,4,P362 – Contact,Vijayapura,2020-04-20,F,47.0,40-60
+403,404,20 April 2020,4 May,OS,3,P221 – Contact,Vijayapura,2020-04-20,M,10.0,3-12
+404,405,20 April 2020,4 May,OS,3,P228 – Contact,Vijayapura,2020-04-20,F,34.0,20-40
+405,406,20 April 2020,7 May,OS,3,P221 – Contact,Vijayapura,2020-04-20,F,38.0,20-40
+406,407,20 April 2020,,OS,3,P221 – Contact,Vijayapura,2020-04-20,M,14.0,12-20
+407,408,20 April 2020,,TJ,3,P117 – Contact,Bidar,2020-04-20,M,27.0,20-40
+408,409,21 April 2020,1 May,U,3,History of SARI,Dakshina Kannada,2020-04-21,F,67.0,60+
+409,410,21 April 2020,,OS,4,P306 – Contact,Vijayapura,2020-04-21,F,18.0,12-20
+410,411,21 April 2020,,OS,4,P306 – Contact,Vijayapura,2020-04-21,F,30.0,20-40
+411,412,21 April 2020,7 May,U,3,Influenza Like Illness (ILI),Kalaburagi,2020-04-21,M,29.0,20-40
+412,413,21 April 2020,7 May,U,3,Under Investigation,Kalaburagi,2020-04-21,M,61.0,60+
 413,414,21 April 2020,21 Apr,U,3,History of SARI and multiple illnesses,Kalaburagi,2020-04-21,M,80.0,60+
-414,415,21 April 2020,,OS,4,P306 - Contact,Vijayapura,2020-04-21,F,18.0,12-20
-415,416,21 April 2020,,NP,3,P52 - Secondary Contact,Mysuru,2020-04-21,M,26.0,20-40
-416,417,21 April 2020,,NP,3,P52 - Secondary Contact,Mysuru,2020-04-21,M,26.0,20-40
-417,418,21 April 2020,,DT,3,P293 - Contact,Vijayapura,2020-04-21,F,25.0,20-40
-418,419,22 April 2020,,U,3,History of SARI,Bengaluru,2020-04-22,M,54.0,40-60
-419,420,22 April 2020,,U,5,P208 - Contact,Bengaluru,2020-04-22,F,28.0,20-40
-420,421,22 April 2020,,U,5,P222 - Contact,Kalaburagi,2020-04-22,F,46.0,40-60
+414,415,21 April 2020,3 May,OS,4,P306 – Contact,Vijayapura,2020-04-21,F,18.0,12-20
+415,416,21 April 2020,3 May,NP,3,P52 – Secondary Contact,Mysuru,2020-04-21,M,26.0,20-40
+416,417,21 April 2020,3 May,NP,3,P52 – Secondary Contact,Mysuru,2020-04-21,M,26.0,20-40
+417,418,21 April 2020,,DT,3,P293 – Contact,Vijayapura,2020-04-21,F,25.0,20-40
+418,419,22 April 2020,8 May,U,3,History of SARI. Spread to 29 cases.,Bengaluru,2020-04-22,M,54.0,40-60
+419,420,22 April 2020,7 May,U,5,P208 – Contact,Bengaluru,2020-04-22,F,28.0,20-40
+420,421,22 April 2020,6 May,U,5,P222 – Contact,Kalaburagi,2020-04-22,F,46.0,40-60
 421,422,22 April 2020,27 Apr,U,3,History of SARI,Kalaburagi,2020-04-22,M,57.0,40-60
-422,423,22 April 2020,,DT,5,P393 - Contact,Kalaburagi,2020-04-22,F,35.0,20-40
-423,424,22 April 2020,,DT,5,P395 - Contact,Kalaburagi,2020-04-22,M,1.0,<3
-424,425,22 April 2020,,DT,5,P395 - Contact,Kalaburagi,2020-04-22,F,26.0,20-40
-425,426,22 April 2020,,NP,4,P383 - Contact,Mysuru,2020-04-22,M,56.0,40-60
-426,427,22 April 2020,,NP,3,P52 - Secondary Contact,Mysuru,2020-04-22,M,32.0,20-40
-427,428,23 April 2020,,OS,3,P221 - Contact,Vijayapura,2020-04-23,M,32.0,20-40
-428,429,23 April 2020,,U,3,Under Tracing,Vijayapura,2020-04-23,F,25.0,20-40
-429,430,23 April 2020,,DT,4,P236 - Contact,Dharwad,2020-04-23,F,30.0,20-40
-430,431,23 April 2020,,DT,4,P236 - Contact,Dharwad,2020-04-23,F,13.0,12-20
-431,432,23 April 2020,23 Apr,U,4,P390 - Contact,Dakshina Kannada,2020-04-23,F,75.0,60+
-432,433,23 April 2020,,U,4,P419 - Contact,Bengaluru,2020-04-23,M,30.0,20-40
-433,434,23 April 2020,,U,4,P419 - Contact,Bengaluru,2020-04-23,M,30.0,20-40
-434,435,23 April 2020,,U,4,P419 - Contact,Bengaluru,2020-04-23,M,22.0,20-40
-435,436,23 April 2020,,U,4,P419 - Contact,Bengaluru,2020-04-23,M,40.0,20-40
-436,437,23 April 2020,,U,4,P419 - Contact,Bengaluru,2020-04-23,M,39.0,20-40
-437,438,23 April 2020,,U,4,P419 - Contact,Bengaluru,2020-04-23,M,25.0,20-40
-438,439,23 April 2020,,U,4,P419 - Contact,Bengaluru,2020-04-23,M,37.0,20-40
-439,440,23 April 2020,,U,4,P419 - Contact,Bengaluru,2020-04-23,M,43.0,40-60
-440,441,23 April 2020,,U,4,P419 - Contact,Bengaluru,2020-04-23,M,24.0,20-40
-441,442,23 April 2020,,DT,4,P171 & P371 Contact,Mandya,2020-04-23,M,47.0,40-60
-442,443,23 April 2020,,DT,4,P179 - Contact,Mandya,2020-04-23,F,28.0,20-40
-443,444,23 April 2020,,U,4,P252 - Contact,Bengaluru,2020-04-23,M,41.0,40-60
-444,445,23 April 2020,,U,4,P413 - Contact,Kalaburagi,2020-04-23,M,32.0,20-40
-445,446,24 April 2020,,U,3,Influenza Like Illness (ILI),Bengaluru,2020-04-24,F,49.0,40-60
-446,447,24 April 2020,,OS,3,Travel History to Surat-Gujarat,Tumakuru,2020-04-24,M,32.0,20-40
-447,448,24 April 2020,,TJ,3,P150 - Contact,Belagavi,2020-04-24,F,10.0,3-12
-448,449,24 April 2020,,U,3,Containment zone (BBMP Ward 135) - Contact,Bengaluru,2020-04-24,M,30.0,20-40
-449,450,24 April 2020,,U,3,Containment zone (BBMP Ward 135) - Contact,Bengaluru,2020-04-24,M,22.0,20-40
-450,451,24 April 2020,,U,4,P250 - Contact,Chikkaballapur,2020-04-24,M,39.0,20-40
-451,452,24 April 2020,,U,3,Containment zone (BBMP Ward 135) - Contact,Bengaluru,2020-04-24,M,35.0,20-40
-452,453,24 April 2020,,U,3,Containment zone (BBMP Ward 135) - Contact,Bengaluru,2020-04-24,M,32.0,20-40
-453,454,24 April 2020,,U,3,Containment zone (BBMP Ward 135) - Contact,Bengaluru,2020-04-24,M,23.0,20-40
-454,455,24 April 2020,,U,7,P380 - Contact,Bagalkote,2020-04-24,M,28.0,20-40
+422,423,22 April 2020,,DT,5,P393 – Contact,Kalaburagi,2020-04-22,F,35.0,20-40
+423,424,22 April 2020,6 May,DT,5,P395 – Contact,Kalaburagi,2020-04-22,M,1.0,<3
+424,425,22 April 2020,6 May,DT,5,P395 – Contact. Spread to 12 cases.,Kalaburagi,2020-04-22,F,26.0,20-40
+425,426,22 April 2020,3 May,NP,4,P383 – Contact,Mysuru,2020-04-22,M,56.0,40-60
+426,427,22 April 2020,,NP,3,P52 – Secondary Contact,Mysuru,2020-04-22,M,32.0,20-40
+427,428,23 April 2020,6 May,OS,3,P221 – Contact,Vijayapura,2020-04-23,M,32.0,20-40
+428,429,23 April 2020,7 May,U,3,Under Tracing,Vijayapura,2020-04-23,F,25.0,20-40
+429,430,23 April 2020,,DT,4,P236 – Contact,Dharwad,2020-04-23,F,30.0,20-40
+430,431,23 April 2020,,DT,4,P236 – Contact,Dharwad,2020-04-23,F,13.0,12-20
+431,432,23 April 2020,23 Apr,U,4,P#390 – Contact,Dakshina Kannada,2020-04-23,F,75.0,60+
+432,433,23 April 2020,,U,4,P#419 – Contact,Bengaluru,2020-04-23,M,30.0,20-40
+433,434,23 April 2020,,U,4,P#419 – Contact,Bengaluru,2020-04-23,M,30.0,20-40
+434,435,23 April 2020,,U,4,P#419 – Contact,Bengaluru,2020-04-23,M,22.0,20-40
+435,436,23 April 2020,,U,4,P#419 – Contact,Bengaluru,2020-04-23,M,40.0,20-40
+436,437,23 April 2020,8 May,U,4,P#419 – Contact,Bengaluru,2020-04-23,M,39.0,20-40
+437,438,23 April 2020,8 May,U,4,P#419 – Contact,Bengaluru,2020-04-23,M,25.0,20-40
+438,439,23 April 2020,8 May,U,4,P#419 – Contact,Bengaluru,2020-04-23,M,37.0,20-40
+439,440,23 April 2020,,U,4,P#419 – Contact,Bengaluru,2020-04-23,M,43.0,40-60
+440,441,23 April 2020,8 May,U,4,P#419 – Contact,Bengaluru,2020-04-23,M,24.0,20-40
+441,442,23 April 2020,,DT,4,P#171 & P#371 Contact,Mandya,2020-04-23,M,47.0,40-60
+442,443,23 April 2020,,DT,4,P#179 – Contact,Mandya,2020-04-23,F,28.0,20-40
+443,444,23 April 2020,,U,4,P#252 – Contact,Bengaluru,2020-04-23,M,41.0,40-60
+444,445,23 April 2020,,U,4,P#413 – Contact,Kalaburagi,2020-04-23,M,32.0,20-40
+445,446,24 April 2020,7 May,U,3,Influenza Like Illness (ILI),Bengaluru,2020-04-24,F,49.0,40-60
+446,447,24 April 2020,,OS,3,Travel History to Surat-Gujarat.,Tumakuru,2020-04-24,M,32.0,20-40
+447,448,24 April 2020,,TJ,3,P#150 – Contact,Belagavi,2020-04-24,F,10.0,3-12
+448,449,24 April 2020,,U,3,Containment zone (BBMP Ward 135) – Contact,Bengaluru,2020-04-24,M,30.0,20-40
+449,450,24 April 2020,,U,3,Containment zone (BBMP Ward 135) – Contact,Bengaluru,2020-04-24,M,22.0,20-40
+450,451,24 April 2020,,U,4,P#250 – Contact,Chikkaballapur,2020-04-24,M,39.0,20-40
+451,452,24 April 2020,,U,3,Containment zone (BBMP Ward 135) – Contact,Bengaluru,2020-04-24,M,35.0,20-40
+452,453,24 April 2020,,U,3,Containment zone (BBMP Ward 135) – Contact,Bengaluru,2020-04-24,M,32.0,20-40
+453,454,24 April 2020,,U,3,Containment zone (BBMP Ward 135) – Contact,Bengaluru,2020-04-24,M,23.0,20-40
+454,455,24 April 2020,,U,7,P#380 – Contact,Bagalkote,2020-04-24,M,28.0,20-40
 455,456,24 April 2020,,U,3,Influenza Like Illness (ILI),Bagalkote,2020-04-24,M,46.0,40-60
-456,457,24 April 2020,,OS,3,P221 - Contact,Vijayapura,2020-04-24,M,17.0,12-20
-457,458,24 April 2020,,U,4,P419 - Contact,Bengaluru,2020-04-24,M,26.0,20-40
-458,459,24 April 2020,,U,4,P419 - Contact,Bengaluru,2020-04-24,M,35.0,20-40
-459,460,24 April 2020,,U,4,P419 - Contact,Bengaluru,2020-04-24,M,31.0,20-40
-460,461,24 April 2020,,U,4,P419 - Contact,Bengaluru,2020-04-24,M,32.0,20-40
-461,462,24 April 2020,,U,4,P419 - Contact,Bengaluru,2020-04-24,M,24.0,20-40
-462,463,24 April 2020,,TJ,3,P148 - Contact,Belagavi,2020-04-24,M,15.0,12-20
-463,464,24 April 2020,,DT,4,P179 - Contact,Mandya,2020-04-24,M,60.0,40-60
+456,457,24 April 2020,,OS,3,P#221 – Contact,Vijayapura,2020-04-24,M,17.0,12-20
+457,458,24 April 2020,,U,4,P#419 – Contact,Bengaluru,2020-04-24,M,26.0,20-40
+458,459,24 April 2020,,U,4,P#419 – Contact,Bengaluru,2020-04-24,M,35.0,20-40
+459,460,24 April 2020,,U,4,P#419 – Contact,Bengaluru,2020-04-24,M,31.0,20-40
+460,461,24 April 2020,,U,4,P#419 – Contact,Bengaluru,2020-04-24,M,32.0,20-40
+461,462,24 April 2020,,U,4,P#419 – Contact,Bengaluru,2020-04-24,M,24.0,20-40
+462,463,24 April 2020,,TJ,3,P#148 – Contact,Belagavi,2020-04-24,M,15.0,12-20
+463,464,24 April 2020,,DT,4,P#179 – Contact,Mandya,2020-04-24,M,60.0,40-60
 464,465,24 April 2020,26 Apr,U,3,History of SARI,Bengaluru,2020-04-24,F,45.0,40-60
 465,466,24 April 2020,27 Apr,U,3,History of SARI (Committed suicide),Bengaluru,2020-04-24,M,50.0,40-60
-466,467,24 April 2020,,OS,3,P221 - Contact,Vijayapura,2020-04-24,M,27.0,20-40
-467,468,24 April 2020,,U,7,P380 - Contact,Bagalkote,2020-04-24,M,14.0,12-20
-468,469,24 April 2020,,U,4,P419 - Contact,Bengaluru,2020-04-24,M,26.0,20-40
-469,470,24 April 2020,,U,4,P419 - Contact,Bengaluru,2020-04-24,M,20.0,12-20
-470,471,24 April 2020,,U,4,P419 - Contact,Bengaluru,2020-04-24,M,22.0,20-40
-471,472,24 April 2020,,U,4,P419 - Contact,Bengaluru,2020-04-24,M,58.0,40-60
-472,473,24 April 2020,,U,4,P419 - Contact,Bengaluru,2020-04-24,M,38.0,20-40
-473,474,24 April 2020,,U,4,P419 - Contact,Bengaluru,2020-04-24,M,44.0,40-60
+466,467,24 April 2020,,OS,3,P#221 – Contact,Vijayapura,2020-04-24,M,27.0,20-40
+467,468,24 April 2020,,U,7,P#380 – Contact,Bagalkote,2020-04-24,M,14.0,12-20
+468,469,24 April 2020,,U,4,P#419 – Contact,Bengaluru,2020-04-24,M,26.0,20-40
+469,470,24 April 2020,,U,4,P#419 – Contact,Bengaluru,2020-04-24,M,20.0,12-20
+470,471,24 April 2020,,U,4,P#419 – Contact,Bengaluru,2020-04-24,M,22.0,20-40
+471,472,24 April 2020,,U,4,P#419 – Contact,Bengaluru,2020-04-24,M,58.0,40-60
+472,473,24 April 2020,,U,4,P#419 – Contact,Bengaluru,2020-04-24,M,38.0,20-40
+473,474,24 April 2020,,U,4,P#419 – Contact,Bengaluru,2020-04-24,M,44.0,40-60
 474,475,25 April 2020,,U,3,History of visit to BBMP Containment zone,Bengaluru,2020-04-25,M,34.0,20-40
-475,476,25 April 2020,,U,4,P419 - Contact,Bengaluru,2020-04-25,M,37.0,20-40
-476,477,25 April 2020,,U,4,P419 - Contact,Bengaluru,2020-04-25,M,21.0,20-40
-477,478,25 April 2020,,U,4,P419 - Contact,Bengaluru,2020-04-25,M,17.0,12-20
-478,479,25 April 2020,,U,4,P419 - Contact,Bengaluru,2020-04-25,F,19.0,12-20
-479,480,25 April 2020,,U,4,P419 - Contact,Bengaluru,2020-04-25,M,28.0,20-40
-480,481,25 April 2020,,U,4,P78 - Contact,Mandya,2020-04-25,M,37.0,20-40
-481,482,25 April 2020,,TJ,3,P128 - Secondary Contact,Belagavi,2020-04-25,M,45.0,40-60
-482,483,25 April 2020,,TJ,3,P128 - Secondary Contact,Belagavi,2020-04-25,M,38.0,20-40
-483,484,25 April 2020,,TJ,3,P128 - Secondary Contact,Belagavi,2020-04-25,F,80.0,60+
-484,485,25 April 2020,,TJ,3,P128 - Secondary Contact,Belagavi,2020-04-25,F,55.0,40-60
-485,486,25 April 2020,,TJ,3,P128 - Secondary Contact,Belagavi,2020-04-25,F,42.0,40-60
-486,487,25 April 2020,,TJ,3,P128 - Secondary Contact,Belagavi,2020-04-25,F,39.0,20-40
+475,476,25 April 2020,,U,4,P#419 – Contact,Bengaluru,2020-04-25,M,37.0,20-40
+476,477,25 April 2020,2 May,U,4,P#419 – Contact,Bengaluru,2020-04-25,M,21.0,20-40
+477,478,25 April 2020,,U,4,P#419 – Contact,Bengaluru,2020-04-25,M,17.0,12-20
+478,479,25 April 2020,,U,4,P#419 – Contact,Bengaluru,2020-04-25,F,19.0,12-20
+479,480,25 April 2020,,U,4,P#419 – Contact,Bengaluru,2020-04-25,M,28.0,20-40
+480,481,25 April 2020,,U,4,P#78 – Contact,Mandya,2020-04-25,M,37.0,20-40
+481,482,25 April 2020,,TJ,3,P#128 – Secondary Contact,Belagavi,2020-04-25,M,45.0,40-60
+482,483,25 April 2020,,TJ,3,P#128 – Secondary Contact,Belagavi,2020-04-25,M,38.0,20-40
+483,484,25 April 2020,,TJ,3,P#128 – Secondary Contact,Belagavi,2020-04-25,F,80.0,60+
+484,485,25 April 2020,,TJ,3,P#128 – Secondary Contact,Belagavi,2020-04-25,F,55.0,40-60
+485,486,25 April 2020,,TJ,3,P#128 – Secondary Contact,Belagavi,2020-04-25,F,42.0,40-60
+486,487,25 April 2020,,TJ,3,P#128 – Secondary Contact,Belagavi,2020-04-25,F,39.0,20-40
 487,488,25 April 2020,,OS,3,"Travel history to Hindupur, Anantapur(AP)",Chikkaballapur,2020-04-25,M,18.0,12-20
-488,489,25 April 2020,,U,4,P409 - Contact,Dakshina Kannada,2020-04-25,F,33.0,20-40
-489,490,25 April 2020,,U,4,P419 - Secondary Contact,Bengaluru,2020-04-25,F,52.0,40-60
-490,491,25 April 2020,,U,4,P419 - Secondary Contact,Bengaluru,2020-04-25,M,6.0,3-12
-491,492,25 April 2020,,U,4,P419 - Secondary Contact,Bengaluru,2020-04-25,M,90.0,60+
-492,493,25 April 2020,,U,4,P419 - Secondary Contact,Bengaluru,2020-04-25,F,37.0,20-40
-493,494,25 April 2020,,TJ,3,P128 - Secondary Contact,Belagavi,2020-04-25,M,20.0,12-20
-494,495,25 April 2020,,TJ,3,P128 - Secondary Contact,Belagavi,2020-04-25,M,8.0,3-12
-495,496,25 April 2020,,TJ,3,P128 - Secondary Contact,Belagavi,2020-04-25,F,30.0,20-40
-496,497,25 April 2020,,NP,4,P382 - Contact,Mysuru,2020-04-25,F,50.0,40-60
-497,498,25 April 2020,,U,4,P465 - Contact,Bengaluru,2020-04-25,M,27.0,20-40
-498,499,25 April 2020,,U,4,P465 - Contact,Bengaluru,2020-04-25,M,27.0,20-40
-499,500,25 April 2020,,U,4,P465 - Contact,Bengaluru,2020-04-25,F,66.0,60+
-500,501,26 April 2020,,U,5,P432 - Contact,Dakshina Kannada,2020-04-26,F,47.0,40-60
-501,502,26 April 2020,,U,4,P422 - Contact,Kalaburagi,2020-04-26,F,65.0,60+
-502,503,26 April 2020,,DT,6,P425 - Contact,Kalaburagi,2020-04-26,M,7.0,3-12
+488,489,25 April 2020,,U,4,P#409 – Contact,Dakshina Kannada,2020-04-25,F,33.0,20-40
+489,490,25 April 2020,,U,4,P#419 – Secondary Contact,Bengaluru,2020-04-25,F,52.0,40-60
+490,491,25 April 2020,,U,4,P#419 – Secondary Contact,Bengaluru,2020-04-25,M,6.0,3-12
+491,492,25 April 2020,,U,4,P#419 – Secondary Contact,Bengaluru,2020-04-25,M,90.0,60+
+492,493,25 April 2020,,U,4,P#419 – Secondary Contact,Bengaluru,2020-04-25,F,37.0,20-40
+493,494,25 April 2020,,TJ,3,P#128 – Secondary Contact,Belagavi,2020-04-25,M,20.0,12-20
+494,495,25 April 2020,,TJ,3,P#128 – Secondary Contact,Belagavi,2020-04-25,M,8.0,3-12
+495,496,25 April 2020,,TJ,3,P#128 – Secondary Contact,Belagavi,2020-04-25,F,30.0,20-40
+496,497,25 April 2020,,NP,4,P#382 – Contact,Mysuru,2020-04-25,F,50.0,40-60
+497,498,25 April 2020,,U,4,P#465 – Contact,Bengaluru,2020-04-25,M,27.0,20-40
+498,499,25 April 2020,,U,4,P#465 – Contact,Bengaluru,2020-04-25,M,27.0,20-40
+499,500,25 April 2020,,U,4,P#465 – Contact,Bengaluru,2020-04-25,F,66.0,60+
+500,501,26 April 2020,,U,5,P#432 – Contact,Dakshina Kannada,2020-04-26,F,47.0,40-60
+501,502,26 April 2020,,U,4,P#422 – Contact,Kalaburagi,2020-04-26,F,65.0,60+
+502,503,26 April 2020,,DT,6,P#425 – Contact,Kalaburagi,2020-04-26,M,7.0,3-12
 503,504,27 April 2020,,U,3,ILI,Bengaluru,2020-04-27,M,13.0,12-20
-504,505,27 April 2020,,OS,3,Travel history to Mumbai,Mandya,2020-04-27,M,50.0,40-60
-505,506,27 April 2020,,U,5,P432 and P507 Contact,Dakshina Kannada,2020-04-27,M,45.0,40-60
-506,507,27 April 2020,,U,5,P432 - Contact,Dakshina Kannada,2020-04-27,F,80.0,60+
-507,508,27 April 2020,,U,4,P456 - Contact,Bagalkote,2020-04-27,F,32.0,20-40
-508,509,27 April 2020,,U,4,P456 - Contact,Bagalkote,2020-04-27,F,21.0,20-40
-509,510,27 April 2020,,OS,3,P221 - Contact,Vijayapura,2020-04-27,M,45.0,40-60
+504,505,27 April 2020,,OS,2,Travel history to Mumbai,Mandya,2020-04-27,M,50.0,40-60
+505,506,27 April 2020,,U,5,P#432 and P#507 Contact,Dakshina Kannada,2020-04-27,M,45.0,40-60
+506,507,27 April 2020,,U,5,P#432 – Contact,Dakshina Kannada,2020-04-27,F,80.0,60+
+507,508,27 April 2020,,U,4,P#456 – Contact,Bagalkote,2020-04-27,F,32.0,20-40
+508,509,27 April 2020,,U,4,P#456 – Contact,Bagalkote,2020-04-27,F,21.0,20-40
+509,510,27 April 2020,,OS,3,P#221 – Contact,Vijayapura,2020-04-27,M,45.0,40-60
 510,511,27 April 2020,,U,3,Under Tracing,Vijayapura,2020-04-27,M,27.0,20-40
-511,512,27 April 2020,,DT,4,P371 - Contact,Mandya,2020-04-27,F,22.0,20-40
-512,513,28 April 2020,,U,3,Contact - Containment Zone BBMP Ward-135,Bengaluru,2020-04-28,M,48.0,40-60
+511,512,27 April 2020,,DT,4,P#371 – Contact,Mandya,2020-04-27,F,22.0,20-40
+512,513,28 April 2020,,U,3,Contact – Containment Zone BBMP Ward-135,Bengaluru,2020-04-28,M,48.0,40-60
 513,514,28 April 2020,,U,3,SARI,Gadag,2020-04-28,M,75.0,60+
-514,515,28 April 2020,,DT,6,P425 - Contact,Kalaburagi,2020-04-28,M,55.0,40-60
-515,516,28 April 2020,,DT,6,P425 - Contact,Kalaburagi,2020-04-28,M,40.0,20-40
-516,517,28 April 2020,,DT,6,P425 - Contact,Kalaburagi,2020-04-28,M,43.0,40-60
-517,518,28 April 2020,,DT,6,P425 - Contact,Kalaburagi,2020-04-28,F,28.0,20-40
-518,519,28 April 2020,,DT,6,P425 - Contact,Kalaburagi,2020-04-28,F,45.0,40-60
-519,520,28 April 2020,,DT,6,P425 - Contact,Kalaburagi,2020-04-28,F,22.0,20-40
-520,521,28 April 2020,,U,4,P381 - Contact,Bagalkote,2020-04-28,F,20.0,12-20
-521,522,28 April 2020,,U,4,P446 - Secondary Contact,Bagalkote,2020-04-28,M,11.0,3-12
-522,523,28 April 2020,,U,4,P381 - Contact,Bagalkote,2020-04-28,M,22.0,20-40
-523,524,29 April 2020,,DT,3,P#293 - Contact,Belagavi,2020-04-29,M,12.0,3-12
-524,525,29 April 2020,,DT,5,P#395 - Contact,Kalaburagi,2020-04-29,F,4.6,3-12
-525,526,29 April 2020,,DT,7,P#515 - Contact,Kalaburagi,2020-04-29,M,28.0,20-40
-526,527,29 April 2020,,DT,6,P#425 - Contact,Kalaburagi,2020-04-29,F,14.0,12-20
-527,528,29 April 2020,,DT,4,P#205 - Contact,Kalaburagi,2020-04-29,M,22.0,20-40
-528,529,29 April 2020,,DT,6,P#425 - Contact,Kalaburagi,2020-04-29,F,40.0,20-40
-529,530,29 April 2020,,DT,4,P#205 - Contact,Kalaburagi,2020-04-29,M,20.0,12-20
-530,531,29 April 2020,,DT,6,P#425 - Contact,Kalaburagi,2020-04-29,F,17.0,12-20
-531,532,29 April 2020,,DT,6,P#425 - Contact,Kalaburagi,2020-04-29,F,12.0,3-12
-532,533,29 April 2020,,U,3,ILI,Davanagere,2020-04-29,F,35.0,20-40
-533,534,29 April 2020,,NP,4,P#346 - Contact,Mysuru,2020-04-29,M,26.0,20-40
+514,515,28 April 2020,,DT,6,P#425 – Contact,Kalaburagi,2020-04-28,M,55.0,40-60
+515,516,28 April 2020,,DT,6,P#425 – Contact,Kalaburagi,2020-04-28,M,40.0,20-40
+516,517,28 April 2020,,DT,6,P#425 – Contact,Kalaburagi,2020-04-28,M,43.0,40-60
+517,518,28 April 2020,,DT,6,P#425 – Contact,Kalaburagi,2020-04-28,F,28.0,20-40
+518,519,28 April 2020,,DT,6,P#425 – Contact,Kalaburagi,2020-04-28,F,45.0,40-60
+519,520,28 April 2020,,DT,6,P#425 – Contact,Kalaburagi,2020-04-28,F,22.0,20-40
+520,521,28 April 2020,,U,4,P#381 – Contact,Bagalkote,2020-04-28,F,20.0,12-20
+521,522,28 April 2020,,U,4,P#446 – Secondary Contact,Bagalkote,2020-04-28,M,11.0,3-12
+522,523,28 April 2020,,U,4,P#381 – Contact,Bagalkote,2020-04-28,M,22.0,20-40
+523,524,29 April 2020,,DT,3,P#293 – Contact,Belagavi,2020-04-29,M,12.0,3-12
+524,525,29 April 2020,,DT,5,P#395 – Contact,Kalaburagi,2020-04-29,F,4.6,3-12
+525,526,29 April 2020,,DT,7,P#515 – Contact,Kalaburagi,2020-04-29,M,28.0,20-40
+526,527,29 April 2020,,DT,6,P#425 – Contact,Kalaburagi,2020-04-29,F,14.0,12-20
+527,528,29 April 2020,,DT,4,P#205 – Contact,Kalaburagi,2020-04-29,M,22.0,20-40
+528,529,29 April 2020,,DT,6,P#425 – Contact,Kalaburagi,2020-04-29,F,40.0,20-40
+529,530,29 April 2020,,DT,4,P#205 – Contact,Kalaburagi,2020-04-29,M,20.0,12-20
+530,531,29 April 2020,,DT,6,P#425 – Contact,Kalaburagi,2020-04-29,F,17.0,12-20
+531,532,29 April 2020,,DT,6,P#425 – Contact,Kalaburagi,2020-04-29,F,12.0,3-12
+532,533,29 April 2020,,U,3,ILI. Nurse at a primary healthcare center who had been to Bagalkote to attend a wedding. Spread to 20 cases.,Davanagere,2020-04-29,F,35.0,20-40
+533,534,29 April 2020,,NP,4,P#346 – Contact,Mysuru,2020-04-29,M,26.0,20-40
 534,535,29 April 2020,,U,3,History of SARI,Tumakuru,2020-04-29,M,73.0,60+
-535,536,30 April 2020,,U,6,P#501 - Contact,Dakshina Kannada,2020-04-30,F,58.0,40-60
-536,537,30 April 2020,,OS,3,P#221 - Contact,Vijayapura,2020-04-30,M,62.0,60+
-537,538,30 April 2020,,OS,3,P#221 - Contact,Vijayapura,2020-04-30,F,33.0,20-40
-538,539,30 April 2020,,U,3,"P#496, P#483 & P#484 - Secondary Contact",Belagavi,2020-04-30,F,24.0,20-40
-539,540,30 April 2020,,TJ,4,P#483 - Secondary Contact,Belagavi,2020-04-30,M,27.0,20-40
-540,541,30 April 2020,,DT,3,P#293 - Contact,Belagavi,2020-04-30,M,9.0,3-12
-541,542,30 April 2020,,DT,3,P#293 - Contact,Belagavi,2020-04-30,F,75.0,60+
-542,543,30 April 2020,,TJ,4,P#486 - Secondary Contact,Belagavi,2020-04-30,F,24.0,20-40
-543,544,30 April 2020,,TJ,4,P#496 - Secondary Contact,Belagavi,2020-04-30,M,18.0,12-20
-544,545,30 April 2020,,TJ,4,P#494 - Secondary Contact,Belagavi,2020-04-30,F,48.0,40-60
-545,546,30 April 2020,,TJ,4,P#483 - Secondary Contact,Belagavi,2020-04-30,M,50.0,40-60
-546,547,30 April 2020,,TJ,4,P#496 & 483 - Secondary Contact,Belagavi,2020-04-30,F,27.0,20-40
-547,548,30 April 2020,,TJ,4,P#484 - Secondary Contact,Belagavi,2020-04-30,M,43.0,40-60
-548,549,30 April 2020,,TJ,4,P#486 - Secondary Contact,Belagavi,2020-04-30,M,16.0,12-20
-549,550,30 April 2020,,TJ,4,P#486 - Secondary Contact,Belagavi,2020-04-30,F,36.0,20-40
-550,551,30 April 2020,,DT,3,P#293 - Contact,Belagavi,2020-04-30,F,8.0,3-12
-551,552,30 April 2020,,TJ,4,P#496 - Secondary Contact,Belagavi,2020-04-30,M,36.0,20-40
-552,553,30 April 2020,,U,4,P#535 - Contact,Tumakuru,2020-04-30,F,65.0,60+
-553,554,30 April 2020,,U,3,Contact - Containment Zone BBMP Ward-135,Bengaluru,2020-04-30,M,20.0,12-20
-554,555,30 April 2020,,U,3,Contact - Containment Zone BBMP Ward-135,Bengaluru,2020-04-30,M,28.0,20-40
-555,556,30 April 2020,,U,3,SARI,Davanagere,2020-04-30,M,69.0,60+
-556,557,30 April 2020,,U,3,SARI,Bengaluru,2020-04-30,M,63.0,60+
-557,558,30 April 2020,,U,4,P#314 - Contact,Kalaburagi,2020-04-30,F,35.0,20-40
-558,559,30 April 2020,,U,4,P#292 - Contact,Bengaluru,2020-04-30,M,15.0,12-20
-559,560,30 April 2020,,U,4,P#292 - Contact,Bengaluru,2020-04-30,F,60.0,40-60
-560,561,30 April 2020,,U,4,P#292 - Contact,Bengaluru,2020-04-30,F,4.0,3-12
-561,562,30 April 2020,,U,4,P#292 - Contact,Bengaluru,2020-04-30,F,16.0,12-20
-562,563,30 April 2020,,U,4,P#292 - Contact,Bengaluru,2020-04-30,F,13.0,12-20
-563,564,30 April 2020,,U,4,P#281 - Contact,Bengaluru,2020-04-30,M,35.0,20-40
+535,536,30 April 2020,,U,6,P#501 – Contact,Dakshina Kannada,2020-04-30,F,58.0,40-60
+536,537,30 April 2020,,OS,3,P#221 – Contact,Vijayapura,2020-04-30,M,62.0,60+
+537,538,30 April 2020,,OS,3,P#221 – Contact,Vijayapura,2020-04-30,F,33.0,20-40
+538,539,30 April 2020,,U,3,"P#496, P#483 & P#484 – Secondary Contact",Belagavi,2020-04-30,F,24.0,20-40
+539,540,30 April 2020,,TJ,4,P#483 – Secondary Contact,Belagavi,2020-04-30,M,27.0,20-40
+540,541,30 April 2020,,DT,3,P#293 – Contact,Belagavi,2020-04-30,M,9.0,3-12
+541,542,30 April 2020,,DT,3,P#293 – Contact,Belagavi,2020-04-30,F,75.0,60+
+542,543,30 April 2020,,TJ,4,P#486 – Secondary Contact,Belagavi,2020-04-30,F,24.0,20-40
+543,544,30 April 2020,,TJ,4,P#496 – Secondary Contact,Belagavi,2020-04-30,M,18.0,12-20
+544,545,30 April 2020,,TJ,4,P#494 – Secondary Contact,Belagavi,2020-04-30,F,48.0,40-60
+545,546,30 April 2020,,TJ,4,P#483 – Secondary Contact,Belagavi,2020-04-30,M,50.0,40-60
+546,547,30 April 2020,,TJ,4,P#496 & 483 – Secondary Contact,Belagavi,2020-04-30,F,27.0,20-40
+547,548,30 April 2020,,TJ,4,P#484 – Secondary Contact,Belagavi,2020-04-30,M,43.0,40-60
+548,549,30 April 2020,,TJ,4,P#486 – Secondary Contact,Belagavi,2020-04-30,M,16.0,12-20
+549,550,30 April 2020,,TJ,4,P#486 – Secondary Contact,Belagavi,2020-04-30,F,36.0,20-40
+550,551,30 April 2020,,DT,3,P#293 – Contact,Belagavi,2020-04-30,F,8.0,3-12
+551,552,30 April 2020,,TJ,4,P#496 – Secondary Contact,Belagavi,2020-04-30,M,36.0,20-40
+552,553,30 April 2020,,U,4,P#535 – Contact,Tumakuru,2020-04-30,F,65.0,60+
+553,554,30 April 2020,,U,3,Contact – Containment Zone BBMP Ward-135,Bengaluru,2020-04-30,M,20.0,12-20
+554,555,30 April 2020,,U,3,Contact – Containment Zone BBMP Ward-135,Bengaluru,2020-04-30,M,28.0,20-40
+555,556,30 April 2020,2 may,U,3,SARI patient with some links to Gujarat. Spread to 12 cases.,Davanagere,2020-04-30,M,69.0,60+
+556,557,30 April 2020,2 may,U,3,SARI,Bengaluru,2020-04-30,M,63.0,60+
+557,558,30 April 2020,,U,4,P#314 – Contact,Kalaburagi,2020-04-30,F,35.0,20-40
+558,559,30 April 2020,,U,4,P#292 – Contact,Bengaluru,2020-04-30,M,15.0,12-20
+559,560,30 April 2020,,U,4,P#292 – Contact,Bengaluru,2020-04-30,F,60.0,40-60
+560,561,30 April 2020,,U,4,P#292 – Contact,Bengaluru,2020-04-30,F,4.0,3-12
+561,562,30 April 2020,,U,4,P#292 – Contact,Bengaluru,2020-04-30,F,16.0,12-20
+562,563,30 April 2020,,U,4,P#292 – Contact,Bengaluru,2020-04-30,F,13.0,12-20
+563,564,30 April 2020,,U,4,P#281 – Contact,Bengaluru,2020-04-30,M,35.0,20-40
 564,565,30 April 2020,,U,3,ILI,Bengaluru,2020-04-30,F,64.0,60+
+565,566,1 May 2020,,OS,2,Travel History to Mumbai,Mandya,2020-05-01,M,25.0,20-40
+566,567,1 May 2020,,OS,2,Travel History to Mumbai,Mandya,2020-05-01,F,24.0,20-40
+567,568,1 May 2020,,OS,2,Travel History to Mumbai,Mandya,2020-05-01,M,27.0,20-40
+568,569,1 May 2020,,OS,3,P#566 – Contact,Mandya,2020-05-01,F,30.0,20-40
+569,570,1 May 2020,,DT,4,P#179 – Contact,Mandya,2020-05-01,M,19.0,12-20
+570,571,1 May 2020,,DT,4,P#179 – Contact,Mandya,2020-05-01,F,32.0,20-40
+571,572,1 May 2020,,DT,4,P#179 – Contact,Mandya,2020-05-01,M,13.0,12-20
+572,573,1 May 2020,,DT,4,P#179 – Contact,Mandya,2020-05-01,M,12.0,3-12
+573,574,1 May 2020,,TJ,5,P#301 – Secondary Contact,Belagavi,2020-05-01,M,55.0,40-60
+574,575,1 May 2020,,TJ,5,P#301 – Secondary Contact,Belagavi,2020-05-01,F,30.0,20-40
+575,576,1 May 2020,,TJ,5,P#301 – Secondary Contact,Belagavi,2020-05-01,M,50.0,40-60
+576,577,1 May 2020,,OS,4,P#510 – Contact,Vijayapura,2020-05-01,M,54.0,40-60
+577,578,1 May 2020,,U,4,P#390 – Contact,Dakshina Kannada,2020-05-01,M,69.0,60+
+578,579,1 May 2020,,U,7,P#536 – Contact,Dakshina Kannada,2020-05-01,M,62.0,60+
+579,580,1 May 2020,,U,4,P#556 – Contact,Davanagere,2020-05-01,F,31.0,20-40
+580,581,1 May 2020,,U,4,P#556 – Contact,Davanagere,2020-05-01,F,26.0,20-40
+581,582,1 May 2020,,U,4,P#556 – Contact,Davanagere,2020-05-01,M,34.0,20-40
+582,583,1 May 2020,,U,4,P#556 – Contact,Davanagere,2020-05-01,M,1.0,<3
+583,584,1 May 2020,,U,4,P#556 – Contact,Davanagere,2020-05-01,F,18.0,12-20
+584,585,1 May 2020,,U,4,P#533 – Contact,Davanagere,2020-05-01,M,16.0,12-20
+585,586,1 May 2020,,U,4,P#250 – Contact,Chikkaballapur,2020-05-01,F,40.0,20-40
+586,587,1 May 2020,4 May,U,3,SARI,Kalaburagi,2020-05-01,M,56.0,40-60
+587,588,1 May 2020,,DT,6,P#425 – Contact,Kalaburagi,2020-05-01,F,20.0,12-20
+588,589,1 May 2020,,U,3,ILI,Dharwad,2020-05-01,M,57.0,40-60
+589,590,2 May 2020,2 may,U,3,SARI,Bidar,2020-05-02,M,82.0,60+
+590,591,2 May 2020,,U,4,P#535 & P#553 – Contact,Tumkuru,2020-05-02,M,40.0,20-40
+591,592,2 May 2020,,U,4,P#535 & P#553 – Contact,Tumkuru,2020-05-02,F,29.0,20-40
+592,593,2 May 2020,,U,4,P#250 – Secondary Contact,Chikkaballapur,2020-05-02,M,54.0,40-60
+593,594,2 May 2020,,OS,3,P#221 – Contact,Vijayapura,2020-05-02,M,22.0,20-40
+594,595,2 May 2020,,OS,3,P#221 – Contact,Vijayapura,2020-05-02,M,45.0,40-60
+595,596,2 May 2020,,TJ,3,P#128 – Secondary Contact,Belagavi,2020-05-02,M,23.0,20-40
+596,597,2 May 2020,,U,4,P#381 – Contact,Bagalkot,2020-05-02,F,45.0,40-60
+597,598,2 May 2020,,U,5,P#444 – Contact,Bengaluru,2020-05-02,F,32.0,20-40
+598,599,2 May 2020,,U,4,P#565 – Contact,Bengaluru,2020-05-02,F,38.0,20-40
+599,600,2 May 2020,,U,4,P#565 – Contact,Bengaluru,2020-05-02,F,26.0,20-40
+600,601,2 May 2020,,U,4,P#565 – Contact,Bengaluru,2020-05-02,M,30.0,20-40
+601,602,3 May 2020,,DT,7,P#532 – Contact,Kalaburagi,2020-05-03,F,13.0,12-20
+602,603,3 May 2020,,DT,7,P#532 – Contact,Kalaburagi,2020-05-03,M,54.0,40-60
+603,604,3 May 2020,,U,3,SARI,Kalaburagi,2020-05-03,M,41.0,40-60
+604,605,3 May 2020,,U,7,P#380 – Contact,Bagalkote,2020-05-03,M,68.0,60+
+605,606,3 May 2020,,U,7,P#380 – Contact,Bagalkote,2020-05-03,F,60.0,40-60
+606,607,3 May 2020,,U,3,"SARI patient who travelled to Hubli, Gadag, Bagalkote districts, in the last two weeks.",Bagalkote,2020-05-03,F,23.0,20-40
+607,608,3 May 2020,,U,3,Contact Containment Zone BBMP Ward-135,Bengaluru,2020-05-03,M,24.0,20-40
+608,609,3 May 2020,,U,3,ILI (Under Investigation),Kalaburagi,2020-05-03,F,35.0,20-40
+609,610,3 May 2020,,U,3,ILI (Under Investigation),Kalaburagi,2020-05-03,M,78.0,60+
+610,611,3 May 2020,,U,3,Contact Under Investigation,Kalaburagi,2020-05-03,M,22.0,20-40
+611,612,3 May 2020,,TJ,4,P#350 – Contact,Bengaluru,2020-05-03,F,45.0,40-60
+612,613,3 May 2020,,TJ,4,P#350 – Contact,Bengaluru,2020-05-03,F,24.0,20-40
+613,614,3 May 2020,,TJ,4,P#350 – Contact,Bengaluru,2020-05-03,F,45.0,40-60
+614,615,4 May 2020,,U,4,P#556 – Contact,Davanagere,2020-05-04,M,30.0,20-40
+615,616,4 May 2020,,U,4,P#533 – Contact,Davanagere,2020-05-04,F,52.0,40-60
+616,617,4 May 2020,,U,4,P#533 – Contact,Davanagere,2020-05-04,M,38.0,20-40
+617,618,4 May 2020,,U,4,P#533 – Contact,Davanagere,2020-05-04,F,32.0,20-40
+618,619,4 May 2020,,U,4,P#533 – Contact,Davanagere,2020-05-04,M,35.0,20-40
+619,620,4 May 2020,,U,4,P#533 – Contact,Davanagere,2020-05-04,F,32.0,20-40
+620,621,4 May 2020,,U,4,P#533 – Contact,Davanagere,2020-05-04,F,12.0,3-12
+621,622,4 May 2020,,U,4,P#533 – Contact,Davanagere,2020-05-04,M,7.0,3-12
+622,623,4 May 2020,,U,3,ILI,Davanagere,2020-05-04,M,38.0,20-40
+623,624,4 May 2020,,U,4,P#556 – Contact,Davanagere,2020-05-04,F,49.0,40-60
+624,625,4 May 2020,,U,4,P#533 – Contact,Davanagere,2020-05-04,M,27.0,20-40
+625,626,4 May 2020,,U,4,P#533 – Contact,Davanagere,2020-05-04,M,25.0,20-40
+626,627,4 May 2020,,U,4,P#533 – Contact,Davanagere,2020-05-04,M,33.0,20-40
+627,628,4 May 2020,,U,4,P#533 – Contact,Davanagere,2020-05-04,F,62.0,60+
+628,629,4 May 2020,,U,4,P#533 – Contact,Davanagere,2020-05-04,F,34.0,20-40
+629,630,4 May 2020,,U,4,P#533 – Contact,Davanagere,2020-05-04,F,20.0,12-20
+630,631,4 May 2020,,U,4,P#533 – Contact,Davanagere,2020-05-04,F,22.0,20-40
+631,632,4 May 2020,,U,4,P#533 – Contact,Davanagere,2020-05-04,M,6.0,3-12
+632,633,4 May 2020,,U,4,P#533 – Contact,Davanagere,2020-05-04,M,17.0,12-20
+633,634,4 May 2020,,U,4,P#533 – Contact,Davanagere,2020-05-04,M,42.0,40-60
+634,635,4 May 2020,,U,4,P#533 – Contact,Davanagere,2020-05-04,M,11.0,3-12
+635,636,4 May 2020,,U,5,P#586 – Contact,Chikkaballapur,2020-05-04,M,30.0,20-40
+636,637,4 May 2020,,OS,2,Travel History to Mumbai,Mandya,2020-05-04,F,20.0,12-20
+637,638,4 May 2020,,OS,2,Travel History to Mumbai,Mandya,2020-05-04,F,19.0,12-20
+638,639,4 May 2020,,OS,2,Travel History to Mumbai,Haveri,2020-05-04,M,32.0,20-40
+639,640,4 May 2020,5 May,OS,3,P#228 – Secondary Contact,Vijayapura,2020-05-04,F,62.0,60+
+640,641,4 May 2020,,U,4,P#604 – Contact,Kalaburagi,2020-05-04,F,36.0,20-40
+641,642,4 May 2020,,OS,2,Travel History to Hyderabad,Kalaburagi,2020-05-04,M,37.0,20-40
+642,643,4 May 2020,,U,4,P#590 – Contact,Bidar,2020-05-04,F,35.0,20-40
+643,644,4 May 2020,,U,4,P#590 – Contact,Bidar,2020-05-04,F,46.0,40-60
+644,645,4 May 2020,,U,4,P#590 – Contact,Bidar,2020-05-04,F,50.0,40-60
+645,646,4 May 2020,,U,4,P#590 – Contact,Bidar,2020-05-04,M,16.0,12-20
+646,647,4 May 2020,,U,4,P#590 – Contact,Bidar,2020-05-04,F,72.0,60+
+647,648,4 May 2020,,U,4,P#590 – Contact,Bidar,2020-05-04,M,22.0,20-40
+648,649,4 May 2020,,U,4,P#590 – Contact,Bidar,2020-05-04,M,60.0,40-60
+649,650,4 May 2020,8 May,U,3,Contact Under Tracing,Bengaluru,2020-05-04,M,40.0,20-40
+650,651,4 May 2020,4 May,U,4,P#533 – Secondary Contact,Davanagere,2020-05-04,F,48.0,40-60
+651,652,5 May 2020,8 May,U,3,Contact under Tracing,Bengaluru,2020-05-05,F,30.0,20-40
+652,653,5 May 2020,,U,6,"P#420 – Contact, housekeeping staff at Shifa Hospita",Bengaluru,2020-05-05,M,34.0,20-40
+653,654,5 May 2020,,U,3,ILI,Bengaluru,2020-05-05,M,45.0,40-60
+654,655,5 May 2020,,U,7,P#367 & P#368 – Contact,Bagalkote,2020-05-05,F,29.0,20-40
+655,656,5 May 2020,,U,7,P#367 & P#368 – Contact,Bagalkote,2020-05-05,M,29.0,20-40
+656,657,5 May 2020,,OS,2,Travel history to Uttarakhand,Ballari,2020-05-05,M,43.0,40-60
+657,658,5 May 2020,,U,7,P#536 – Contact,Dakshina Kannada,2020-05-05,M,51.0,40-60
+658,659,5 May 2020,,U,3,ILI. Possible origin in First Neuro hospital in Mangaluru. Spread to 34 cases.,Uttara Kannada,2020-05-05,F,18.0,12-20
+659,660,5 May 2020,,U,4,P#556 – Contact,Davanagere,2020-05-05,M,30.0,20-40
+660,661,5 May 2020,,U,4,P#556 – Contact,Davanagere,2020-05-05,M,25.0,20-40
+661,662,5 May 2020,5 May,U,4,P#556 Expired – Secondary Contact,Davanagere,2020-05-05,F,50.0,40-60
+662,663,5 May 2020,,U,4,P#556 – Secondary Contact,Davanagere,2020-05-05,M,51.0,40-60
+663,664,5 May 2020,,U,5,P#581 – Contact,Davanagere,2020-05-05,M,48.0,40-60
+664,665,5 May 2020,,U,4,P#556 – Contact,Davanagere,2020-05-05,F,52.0,40-60
+665,666,5 May 2020,,U,5,P#581 – Contact,Davanagere,2020-05-05,F,36.0,20-40
+666,667,5 May 2020,,U,5,P#581 – Contact,Davanagere,2020-05-05,F,15.0,12-20
+667,668,5 May 2020,,U,5,P#581 – Contact,Davanagere,2020-05-05,F,19.0,12-20
+668,669,5 May 2020,,U,5,P#581 – Contact,Davanagere,2020-05-05,M,27.0,20-40
+669,670,5 May 2020,,U,5,P#581 – Contact,Davanagere,2020-05-05,F,42.0,40-60
+670,671,5 May 2020,,U,5,P#581 – Contact,Davanagere,2020-05-05,M,5.0,3-12
+671,672,5 May 2020,,OS,3,P#639 – Contact,Haveri,2020-05-05,M,40.0,20-40
+672,673,5 May 2020,,OS,2,Travel History to Mumbai,Dharwad,2020-05-05,M,26.0,20-40
+673,674,6 May 2020,,U,7,P#536 – Contact,Dakshina Kannada,2020-05-06,F,11.0,3-12
+674,675,6 May 2020,,U,7,P#536 – Contact,Dakshina Kannada,2020-05-06,F,35.0,20-40
+675,676,6 May 2020,,U,4,P#390 – Contact,Dakshina Kannada,2020-05-06,F,16.0,12-20
+676,677,6 May 2020,,U,4,P#654 – Contact,Bengaluru,2020-05-06,F,40.0,20-40
+677,678,6 May 2020,,U,4,P#654 – Contact,Bengaluru,2020-05-06,M,25.0,20-40
+678,679,6 May 2020,,U,4,P#610 – Contact,Kalaburagi,2020-05-06,M,52.0,40-60
+679,680,6 May 2020,,U,3,ILI,Bagalkote,2020-05-06,F,18.0,12-20
+680,681,6 May 2020,,U,4,P#607 – Contact,Bagalkote,2020-05-06,M,45.0,40-60
+681,682,6 May 2020,,U,4,P#607 – Contact,Bagalkote,2020-05-06,F,55.0,40-60
+682,683,6 May 2020,,U,4,P#607 – Contact,Bagalkote,2020-05-06,M,26.0,20-40
+683,684,6 May 2020,,U,4,P#607 – Contact,Bagalkote,2020-05-06,M,47.0,40-60
+684,685,6 May 2020,,U,4,P#607 – Contact,Bagalkote,2020-05-06,F,30.0,20-40
+685,686,6 May 2020,,U,4,P#607 – Contact,Bagalkote,2020-05-06,M,15.0,12-20
+686,687,6 May 2020,,U,4,P#607 – Contact,Bagalkote,2020-05-06,F,40.0,20-40
+687,688,6 May 2020,,U,4,P#607 – Contact,Bagalkote,2020-05-06,M,23.0,20-40
+688,689,6 May 2020,,U,4,P#607 – Contact,Bagalkote,2020-05-06,M,10.0,3-12
+689,690,6 May 2020,,U,4,P#607 – Contact,Bagalkote,2020-05-06,M,32.0,20-40
+690,691,6 May 2020,,U,4,P#607 – Contact,Bagalkote,2020-05-06,M,30.0,20-40
+691,692,6 May 2020,,U,4,P#607 – Contact,Bagalkote,2020-05-06,F,16.0,12-20
+692,693,6 May 2020,,OS,3,P#221 – Contact,Vijayapura,2020-05-06,F,35.0,20-40
+693,694,7 May 2020,7 May,U,3,SARI Expired,Davanagere,2020-05-07,F,55.0,40-60
+694,695,7 May 2020,,U,3,ILI,Davanagere,2020-05-07,F,53.0,40-60
+695,696,7 May 2020,,U,3,ILI,Davanagere,2020-05-07,F,40.0,20-40
+696,697,7 May 2020,,OS,4,P642 - Contact,Kalaburagi,2020-05-07,M,35.0,20-40
+697,698,7 May 2020,,U,5,P641 - Contact,Kalaburagi,2020-05-07,F,36.0,20-40
+698,699,7 May 2020,,U,5,P641 - Contact,Kalaburagi,2020-05-07,M,41.0,40-60
+699,700,7 May 2020,,TJ,4,P364 - Contact,Belagavi,2020-05-07,F,13.0,12-20
+700,701,7 May 2020,,U,3,ILI,Bengaluru,2020-05-07,F,49.0,40-60
+701,702,7 May 2020,,U,4,P607 - Contact,Bagalkote,2020-05-07,F,55.0,40-60
+702,703,7 May 2020,,U,4,P607 - Contact,Bagalkote,2020-05-07,F,80.0,60+
+703,704,7 May 2020,,U,4,P607 - Contact,Bagalkote,2020-05-07,F,19.0,12-20
+704,705,7 May 2020,,U,3,ILI,Dharwad,2020-05-07,M,35.0,20-40
+705,706,8 May 2020,,U,3,Contact under tracing,Bengaluru,2020-05-08,M,23.0,20-40
+706,707,8 May 2020,,U,3,Contact under tracing,Bengaluru,2020-05-08,F,35.0,20-40
+707,708,8 May 2020,,U,7,P653 - Contact,Bengaluru,2020-05-08,M,22.0,20-40
+708,709,8 May 2020,,U,7,P653 - Contact,Bengaluru,2020-05-08,M,19.0,12-20
+709,710,8 May 2020,,U,7,P653 - Contact,Bengaluru,2020-05-08,M,40.0,20-40
+710,711,8 May 2020,,U,7,P653 - Contact,Bengaluru,2020-05-08,M,25.0,20-40
+711,712,8 May 2020,,U,3,Contact under tracing,Ballari,2020-05-08,F,37.0,20-40
+712,713,8 May 2020,,TJ,4,P485 & P483 - Contact,Belagavi,2020-05-08,M,58.0,40-60
+713,714,8 May 2020,,TJ,5,P552 - Contact,Belagavi,2020-05-08,F,30.0,20-40
+714,715,8 May 2020,,TJ,4,P485 & P496 - Contact,Belagavi,2020-05-08,M,20.0,12-20
+715,716,8 May 2020,,TJ,5,P552 - Contact,Belagavi,2020-05-08,F,16.0,12-20
+716,717,8 May 2020,,TJ,5,P547 - Contact,Belagavi,2020-05-08,F,21.0,20-40
+717,718,8 May 2020,,TJ,5,P547 - Contact,Belagavi,2020-05-08,M,45.0,40-60
+718,719,8 May 2020,,TJ,5,P547 - Contact,Belagavi,2020-05-08,M,26.0,20-40
+719,720,8 May 2020,,TJ,5,P548 - Contact,Belagavi,2020-05-08,F,38.0,20-40
+720,721,8 May 2020,,TJ,5,P547 - Contact,Belagavi,2020-05-08,F,20.0,12-20
+721,722,8 May 2020,,U,4,P539 & P552 - Contact,Belagavi,2020-05-08,M,23.0,20-40
+722,723,8 May 2020,,TJ,6,P575 - Contact,Belagavi,2020-05-08,M,20.0,12-20
+723,724,8 May 2020,,U,4,P556 - Contact,Davanagere,2020-05-08,M,10.0,3-12
+724,725,8 May 2020,,U,4,P556 - Contact,Davanagere,2020-05-08,M,20.0,12-20
+725,726,8 May 2020,,U,4,P556 - Contact,Davanagere,2020-05-08,F,18.0,12-20
+726,727,8 May 2020,,U,4,P556 - Contact,Davanagere,2020-05-08,F,27.0,20-40
+727,728,8 May 2020,,U,4,P533 - Contact,Davanagere,2020-05-08,F,18.0,12-20
+728,729,8 May 2020,,U,4,P533 - Contact,Davanagere,2020-05-08,M,6.0,3-12
+729,730,8 May 2020,,U,4,P533 - Contact,Davanagere,2020-05-08,M,9.0,3-12
+730,731,8 May 2020,,U,4,P533 - Contact,Davanagere,2020-05-08,M,36.0,20-40
+731,732,8 May 2020,,U,4,P533 - Contact,Davanagere,2020-05-08,F,32.0,20-40
+732,733,8 May 2020,,U,4,P533 - Contact,Davanagere,2020-05-08,F,3.0,<3
+733,734,8 May 2020,,U,4,P533 - Contact,Davanagere,2020-05-08,M,48.0,40-60
+734,735,8 May 2020,,U,4,P533 - Contact,Davanagere,2020-05-08,F,13.0,12-20
+735,736,8 May 2020,,U,4,P533 - Contact,Davanagere,2020-05-08,M,8.0,3-12
+736,737,8 May 2020,,U,4,P533 - Contact,Davanagere,2020-05-08,F,38.0,20-40
+737,738,8 May 2020,,U,3,Contact under tracing,Bengaluru,2020-05-08,F,34.0,20-40
+738,739,8 May 2020,,U,4,P659 - Contact,Uttara Kannada,2020-05-08,F,25.0,20-40
+739,740,8 May 2020,,U,4,P659 - Contact,Uttara Kannada,2020-05-08,F,18.0,12-20
+740,741,8 May 2020,,U,4,P659 - Contact,Uttara Kannada,2020-05-08,F,11.0,3-12
+741,742,8 May 2020,,U,4,P659 - Contact,Uttara Kannada,2020-05-08,F,39.0,20-40
+742,743,8 May 2020,,U,4,P659 - Contact,Uttara Kannada,2020-05-08,M,33.0,20-40
+743,744,8 May 2020,,U,4,P659 - Contact,Uttara Kannada,2020-05-08,F,75.0,60+
+744,745,8 May 2020,,U,4,P659 - Contact,Uttara Kannada,2020-05-08,F,12.0,3-12
+745,746,8 May 2020,,U,4,P659 - Contact,Uttara Kannada,2020-05-08,M,83.0,60+
+746,747,8 May 2020,,U,4,P659 - Contact,Uttara Kannada,2020-05-08,F,1.0,<3
+747,748,8 May 2020,,U,4,P659 - Contact,Uttara Kannada,2020-05-08,F,3.0,<3
+748,749,8 May 2020,,U,4,P659 - Contact,Uttara Kannada,2020-05-08,M,60.0,40-60
+749,750,8 May 2020,,U,4,P659 - Contact,Uttara Kannada,2020-05-08,F,22.0,20-40
+750,751,8 May 2020,,OS,2,Travel History to Ahmedabad,Chitradurga,2020-05-08,M,64.0,60+
+751,752,8 May 2020,,OS,2,Travel History to Ahmedabad,Chitradurga,2020-05-08,M,64.0,60+
+752,753,8 May 2020,,OS,2,Travel History to Ahmedabad,Chitradurga,2020-05-08,M,64.0,60+
+753,754,9 May 2020,,U,5,P651 - Contact,Davanagere,2020-05-09,F,20.0,12-20
+754,755,9 May 2020,,U,5,P651 - Contact,Davanagere,2020-05-09,M,45.0,40-60
+755,756,9 May 2020,,U,5,P651 - Contact,Davanagere,2020-05-09,M,24.0,20-40
+756,757,9 May 2020,,U,5,P651 - Contact,Davanagere,2020-05-09,M,24.0,20-40
+757,758,9 May 2020,,U,5,P651 - Contact,Davanagere,2020-05-09,M,26.0,20-40
+758,759,9 May 2020,,U,4,P419 - Contact,Bengaluru,2020-05-09,M,36.0,20-40
+759,760,9 May 2020,,U,4,P419 - Contact,Bengaluru,2020-05-09,M,60.0,40-60
+760,761,9 May 2020,,U,4,P449 - Contact,Bengaluru,2020-05-09,F,55.0,40-60
+761,762,9 May 2020,,U,4,P454 - Contact,Bengaluru,2020-05-09,F,20.0,12-20
+762,763,9 May 2020,,U,4,P454 - Contact,Bengaluru,2020-05-09,F,40.0,20-40
+763,764,9 May 2020,,U,3,BBMP Containment Zone Ward No-135 - Contact,Tumakuru,2020-05-09,M,45.0,40-60
+764,765,9 May 2020,,U,3,BBMP Containment Zone Ward No-135 - Contact,Bengaluru,2020-05-09,F,20.0,12-20
+765,766,9 May 2020,,U,4,P419 - Contact,Bengaluru,2020-05-09,M,40.0,20-40
+766,767,9 May 2020,,U,4,P419 - Contact,Bengaluru,2020-05-09,M,24.0,20-40
+767,768,9 May 2020,,U,4,P419 - Contact,Bengaluru,2020-05-09,F,37.0,20-40
+768,769,9 May 2020,,OS,4,P510 - Contact,Vijayapura,2020-05-09,F,11.0,3-12
+769,770,9 May 2020,,U,5,P647 - Contact,Bidar,2020-05-09,M,30.0,20-40
+770,771,9 May 2020,,U,5,P648 - Contact,Bidar,2020-05-09,F,12.0,3-12
+771,772,9 May 2020,,U,3,Contact under tracing,Bidar,2020-05-09,F,30.0,20-40
+772,773,9 May 2020,,U,4,P454 - Contact,Bengaluru,2020-05-09,M,46.0,40-60
+773,774,9 May 2020,,U,4,P454 - Contact,Bengaluru,2020-05-09,F,19.0,12-20
+774,775,9 May 2020,,U,4,P449 - Contact,Bengaluru,2020-05-09,F,31.0,20-40
+775,776,9 May 2020,,U,5,P553 - Secondary Contact,Davanagere,2020-05-09,M,48.0,40-60
+776,777,9 May 2020,,U,5,P578 - Contact,Dakshina Kannada,2020-05-09,M,30.0,20-40
+777,778,9 May 2020,,U,5,P578 - Contact,Dakshina Kannada,2020-05-09,F,60.0,40-60
+778,779,9 May 2020,,U,5,P578 - Contact,Dakshina Kannada,2020-05-09,F,70.0,60+
+779,780,9 May 2020,,U,4,P659 - Secondary Contact,Uttara Kannada,2020-05-09,F,2.5,<3
+780,781,9 May 2020,,U,4,P659 - Secondary Contact,Uttara Kannada,2020-05-09,M,65.0,60+
+781,782,9 May 2020,,U,4,P659 - Secondary Contact,Uttara Kannada,2020-05-09,F,50.0,40-60
+782,783,9 May 2020,,U,5,P740 - Contact,Uttara Kannada,2020-05-09,M,68.0,60+
+783,784,9 May 2020,,U,4,P659 - Secondary Contact,Uttara Kannada,2020-05-09,M,1.5,<3
+784,785,9 May 2020,,U,4,P659 - Secondary Contact,Uttara Kannada,2020-05-09,F,17.0,12-20
+785,786,9 May 2020,,U,4,P659 - Secondary Contact,Uttara Kannada,2020-05-09,F,23.0,20-40
+786,787,9 May 2020,,OS,2,Travel History to Ahmedabad,Chitradurga,2020-05-09,M,34.0,20-40
+787,788,9 May 2020,,OS,2,Travel History to Ahmedabad,Chitradurga,2020-05-09,M,26.0,20-40
+788,789,9 May 2020,,OS,2,Travel History to Ahmedabad,Chitradurga,2020-05-09,M,17.0,12-20
+789,790,9 May 2020,,U,3,Contact under tracing,Chikkaballapur,2020-05-09,M,71.0,60+
+790,791,9 May 2020,,U,5,P750 - Contact,Uttara Kannada,2020-05-09,F,32.0,20-40
+791,792,9 May 2020,,OS,2,Travel History to Ahmedabad,Tumakuru,2020-05-09,M,40.0,20-40
+792,793,9 May 2020,,OS,2,Travel History to Ahmedabad,Tumakuru,2020-05-09,M,27.0,20-40
+793,794,9 May 2020,,OS,2,Travel History to Ahmedabad,Tumakuru,2020-05-09,M,38.0,20-40
+794,795,10 May 2020,,U,3,BBMP Containment Zone Ward No. 135 - Contact,Bengaluru,2020-05-10,M,29.0,20-40
+795,796,10 May 2020,,U,3,ILI,Bengaluru,2020-05-10,M,60.0,40-60
+796,797,10 May 2020,,U,4,P659 - Secondary Contact,Uttara Kannada,2020-05-10,F,50.0,40-60
+797,798,10 May 2020,,U,4,P659 - Secondary Contact,Uttara Kannada,2020-05-10,M,15.0,12-20
+798,799,10 May 2020,,U,4,P659 - Contact,Uttara Kannada,2020-05-10,M,16.0,12-20
+799,800,10 May 2020,,U,4,P659 - Contact,Uttara Kannada,2020-05-10,M,42.0,40-60
+800,801,10 May 2020,,U,4,P659 - Contact,Uttara Kannada,2020-05-10,F,21.0,20-40
+801,802,10 May 2020,,U,4,P659 - Secondary Contact,Uttara Kannada,2020-05-10,M,31.0,20-40
+802,803,10 May 2020,,U,4,P659 - Secondary Contact,Uttara Kannada,2020-05-10,M,60.0,40-60
+803,804,10 May 2020,,U,4,P790 - Contact,Chikkaballapur,2020-05-10,M,22.0,20-40
+804,805,10 May 2020,,U,3,SARI,Kalaburagi,2020-05-10,M,35.0,20-40
+805,806,10 May 2020,,OS,2,Travel History to Maharashtra,Kalaburagi,2020-05-10,M,30.0,20-40
+806,807,10 May 2020,,U,4,P604 - Contact,Kalaburagi,2020-05-10,M,72.0,60+
+807,808,10 May 2020,,OS,2,Travel History to Ahmedabad,Shivamogga,2020-05-10,M,65.0,60+
+808,809,10 May 2020,,OS,2,Travel History to Ahmedabad,Shivamogga,2020-05-10,M,65.0,60+
+809,810,10 May 2020,,OS,2,Travel History to Ahmedabad,Shivamogga,2020-05-10,M,18.0,12-20
+810,811,10 May 2020,,OS,2,Travel History to Ahmedabad,Shivamogga,2020-05-10,M,56.0,40-60
+811,812,10 May 2020,,OS,2,Travel History to Ahmedabad,Shivamogga,2020-05-10,M,43.0,40-60
+812,813,10 May 2020,,OS,2,Travel History to Ahmedabad,Shivamogga,2020-05-10,M,25.0,20-40
+813,814,10 May 2020,,OS,2,Travel History to Ahmedabad,Shivamogga,2020-05-10,M,27.0,20-40
+814,815,10 May 2020,,OS,2,Travel History to Ahmedabad,Shivamogga,2020-05-10,M,20.0,12-20
+815,816,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Bagalkote,2020-05-10,M,33.0,20-40
+816,817,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Belagavi,2020-05-10,F,50.0,40-60
+817,818,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Bagalkote,2020-05-10,F,29.0,20-40
+818,819,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Bagalkote,2020-05-10,F,2.0,<3
+819,820,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Belagavi,2020-05-10,M,38.0,20-40
+820,821,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Belagavi,2020-05-10,F,17.0,12-20
+821,822,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Belagavi,2020-05-10,F,60.0,40-60
+822,823,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Belagavi,2020-05-10,M,10.0,3-12
+823,824,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Belagavi,2020-05-10,F,14.0,12-20
+824,825,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Belagavi,2020-05-10,F,40.0,20-40
+825,826,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Belagavi,2020-05-10,M,63.0,60+
+826,827,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Belagavi,2020-05-10,M,20.0,12-20
+827,828,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Belagavi,2020-05-10,F,56.0,40-60
+828,829,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Belagavi,2020-05-10,M,29.0,20-40
+829,830,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Belagavi,2020-05-10,F,60.0,40-60
+830,831,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Belagavi,2020-05-10,F,25.0,20-40
+831,832,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Belagavi,2020-05-10,F,3.0,<3
+832,833,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Belagavi,2020-05-10,F,46.0,40-60
+833,834,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Belagavi,2020-05-10,F,50.0,40-60
+834,835,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Bagalkote,2020-05-10,F,30.0,20-40
+835,836,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Bagalkote,2020-05-10,F,8.0,3-12
+836,837,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Bagalkote,2020-05-10,F,12.0,3-12
+837,838,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Bagalkote,2020-05-10,M,22.0,20-40
+838,839,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Bagalkote,2020-05-10,F,75.0,60+
+839,840,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Belagavi,2020-05-10,M,12.0,3-12
+840,841,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Belagavi,2020-05-10,M,14.0,12-20
+841,842,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Belagavi,2020-05-10,F,27.0,20-40
+842,843,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Belagavi,2020-05-10,F,8.0,3-12
+843,844,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Belagavi,2020-05-10,M,3.0,<3
+844,845,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Belagavi,2020-05-10,M,6.0,3-12
+845,846,10 May 2020,,U,3,SARI Expired,Bengaluru,2020-05-10,F,56.0,40-60
+846,847,10 May 2020,,OS,2,"Travel History to Ajmer, Rajasthan",Davanagere,2020-05-10,M,22.0,20-40
+847,848,10 May 2020,,U,3,ILI,Kalaburagi,2020-05-10,M,35.0,20-40
+848,849,11 May 2020,,U,3,Contact under tracing,Kalaburagi,2020-05-11,M,38.0,20-40
+849,850,11 May 2020,,U,5,P662 - Contact,Davanagere,2020-05-11,M,33.0,20-40
+850,851,11 May 2020,,U,5,P663 - Contact,Davanagere,2020-05-11,F,30.0,20-40
+851,852,11 May 2020,,U,6,P667 - Contact,Davanagere,2020-05-11,F,56.0,40-60
+852,853,11 May 2020,,OS,2,Travel History to Mumbai and Bhatkal,Haveri,2020-05-11,M,26.0,20-40
+853,854,11 May 2020,,OS,2,Travel History to Ahmedabad,Bagalkote,2020-05-11,M,20.0,12-20
+854,855,11 May 2020,,U,5,P688 - Contact,Bagalkote,2020-05-11,M,28.0,20-40
+855,856,11 May 2020,,U,5,P511 - Contact,Vijayapura,2020-05-11,F,20.0,12-20
+856,857,11 May 2020,,U,5,P644 - Contact,Bidar,2020-05-11,M,50.0,40-60
+857,858,11 May 2020,,U,5,P644 - Contact,Bidar,2020-05-11,M,27.0,20-40
+858,859,11 May 2020,,U,4,P796 - Contact,"Ananthapura, AP",2020-05-11,F,55.0,40-60
+859,860,11 May 2020,,U,4,P796 - Contact,Bengaluru,2020-05-11,M,26.0,20-40
+860,861,11 May 2020,,OS,2,Travel History to Mumbai,Hassan,2020-05-11,F,30.0,20-40
+861,862,11 May 2020,,OS,2,Travel History to Mumbai,Mandya,2020-05-11,M,38.0,20-40
+862,863,12 May 2020,,U,3,Contact under tracing,Ballari,2020-05-12,M,30.0,20-40
+863,864,12 May 2020,,U,4,P790 - Contact,Chikkaballapur,2020-05-12,M,46.0,40-60
+864,865,12 May 2020,,U,3,ILI,Bagalkote,2020-05-12,M,55.0,40-60
+865,866,12 May 2020,,DT,7,P529 - Contact,Kalaburagi,2020-05-12,M,14.0,12-20
+866,867,12 May 2020,,OS,2,Travel History to Ahmedabad,Yadagiri,2020-05-12,F,33.0,20-40
+867,868,12 May 2020,,OS,2,Travel History to Ahmedabad,Yadagiri,2020-05-12,M,38.0,20-40
+868,869,12 May 2020,,OS,2,Travel History to Mumbai,Mandya,2020-05-12,M,28.0,20-40
+869,870,12 May 2020,,OS,2,Travel History to Ahmedabad,Bagalkote,2020-05-12,M,16.0,12-20
+870,871,12 May 2020,,OS,2,Travel History to Ahmedabad,Bagalkote,2020-05-12,M,14.0,12-20
+871,872,12 May 2020,,OS,2,Travel History to Ahmedabad,Bagalkote,2020-05-12,M,33.0,20-40
+872,873,12 May 2020,,OS,2,Travel History to Ahmedabad,Bagalkote,2020-05-12,M,21.0,20-40
+873,874,12 May 2020,,OS,2,Travel History to Ahmedabad,Bagalkote,2020-05-12,M,19.0,12-20
+874,875,12 May 2020,,OS,2,Travel History to Ahmedabad,Bagalkote,2020-05-12,M,19.0,12-20
+875,876,12 May 2020,,OS,2,Travel History to Ahmedabad,Bagalkote,2020-05-12,M,34.0,20-40
+876,877,12 May 2020,,U,6,P507 - Contact,Dakshina Kannada,2020-05-12,M,26.0,20-40
+877,878,12 May 2020,,U,6,P507 - Contact,Dakshina Kannada,2020-05-12,F,50.0,40-60
+878,879,12 May 2020,,OS,2,Travel History to Ahmedabad,Dharwad,2020-05-12,M,55.0,40-60
+879,880,12 May 2020,,OS,2,Travel History to Ahmedabad,Dharwad,2020-05-12,M,31.0,20-40
+880,881,12 May 2020,,OS,2,Travel History to Ahmedabad,Dharwad,2020-05-12,M,25.0,20-40
+881,882,12 May 2020,,OS,2,Travel History to Ahmedabad,Dharwad,2020-05-12,M,70.0,60+
+882,883,12 May 2020,,OS,2,Travel History to Ahmedabad,Dharwad,2020-05-12,M,26.0,20-40
+883,884,12 May 2020,,OS,2,Travel History to Ahmedabad,Dharwad,2020-05-12,M,18.0,12-20
+884,885,12 May 2020,,OS,2,Travel History to Ahmedabad,Dharwad,2020-05-12,M,19.0,12-20
+885,886,12 May 2020,,OS,2,Travel History to Ahmedabad,Dharwad,2020-05-12,M,20.0,12-20
+886,887,12 May 2020,,OS,2,Travel History to Ahmedabad,Dharwad,2020-05-12,M,27.0,20-40
+887,888,12 May 2020,,U,4,P454 - Contact,Bengaluru,2020-05-12,F,33.0,20-40
+888,889,12 May 2020,,U,4,P454 - Contact,Bengaluru,2020-05-12,F,38.0,20-40
+889,890,12 May 2020,,U,4,P454 - Contact,Bengaluru,2020-05-12,F,38.0,20-40
+890,891,12 May 2020,,U,3,Containment Zone Bidar - Contact,Bidar,2020-05-12,M,23.0,20-40
+891,892,12 May 2020,,U,3,Containment Zone Bidar - Contact,Bidar,2020-05-12,M,30.0,20-40
+892,893,12 May 2020,,OS,2,Travel History to Ahmedabad,Bagalkote,2020-05-12,M,30.0,20-40
+893,894,12 May 2020,,OS,2,Travel History to Ahmedabad,Bagalkote,2020-05-12,M,17.0,12-20
+894,895,12 May 2020,,OS,2,Travel History to Ahmedabad,Bagalkote,2020-05-12,M,32.0,20-40
+895,896,12 May 2020,,OS,2,Travel History to Ahmedabad,Bagalkote,2020-05-12,M,20.0,12-20
+896,897,12 May 2020,,OS,2,Travel History to Ahmedabad,Bagalkote,2020-05-12,M,18.0,12-20
+897,898,12 May 2020,,OS,2,Travel History to Ahmedabad,Bagalkote,2020-05-12,M,29.0,20-40
+898,899,12 May 2020,,OS,2,Travel History to Ahmedabad,Bagalkote,2020-05-12,M,20.0,12-20
+899,900,12 May 2020,,OS,2,Travel History to Mumbai,Hassan,2020-05-12,M,36.0,20-40
+900,901,12 May 2020,,OS,2,Travel History to Mumbai,Hassan,2020-05-12,F,27.0,20-40
+901,902,12 May 2020,,OS,2,Travel History to Mumbai,Hassan,2020-05-12,F,7.0,3-12
+902,903,12 May 2020,,OS,2,Travel History to Mumbai,Hassan,2020-05-12,M,45.0,40-60
+903,904,12 May 2020,,OS,2,Travel History to Mumbai,Hassan,2020-05-12,F,4.0,3-12
+904,905,12 May 2020,,OS,2,Travel History to Ahmedabad,Gadag,2020-05-12,M,36.0,20-40
+905,906,12 May 2020,,U,3,Contact Under Tracing,Kolar,2020-05-12,F,22.0,20-40
+906,907,12 May 2020,,U,3,Contact Under Tracing,Kolar,2020-05-12,F,70.0,60+
+907,908,12 May 2020,,OS,2,Travel History to Chennai,Kolar,2020-05-12,M,22.0,20-40
+908,909,12 May 2020,,OS,2,Travel History to Orissa,Kolar,2020-05-12,M,27.0,20-40
+909,910,12 May 2020,,OS,2,Travel History to Orissa,Kolar,2020-05-12,M,21.0,20-40
+910,911,12 May 2020,,U,3,Contact Under Tracing,Bengaluru,2020-05-12,M,35.0,20-40
+911,912,12 May 2020,,U,4,P514 - Contact,Gadag,2020-05-12,M,61.0,60+
+912,913,12 May 2020,,U,4,P514 - Contact,Gadag,2020-05-12,M,65.0,60+
+913,914,12 May 2020,,U,4,P696 - Contact,Davanagere,2020-05-12,F,17.0,12-20
+914,915,12 May 2020,,OS,2,Travel History to Ahmedabad,Davanagere,2020-05-12,M,18.0,12-20
+915,916,12 May 2020,,OS,2,Travel History to Ahmedabad,Davanagere,2020-05-12,M,23.0,20-40
+916,917,12 May 2020,,OS,2,Travel History to Ahmedabad,Davanagere,2020-05-12,M,40.0,20-40
+917,918,12 May 2020,,OS,2,Travel History to Ahmedabad,Davanagere,2020-05-12,M,40.0,20-40
+918,919,12 May 2020,,OS,2,Travel History to Ahmedabad,Davanagere,2020-05-12,M,20.0,12-20
+919,920,12 May 2020,,OS,2,Travel History to Ahmedabad,Davanagere,2020-05-12,M,20.0,12-20
+920,921,12 May 2020,,U,4,P695 - Contact,Davanagere,2020-05-12,M,23.0,20-40
+921,922,12 May 2020,,U,4,P695 - Contact,Davanagere,2020-05-12,M,29.0,20-40
+922,923,12 May 2020,,U,4,P696 - Contact,Davanagere,2020-05-12,M,45.0,40-60
+923,924,12 May 2020,,U,4,P696 - Contact,Davanagere,2020-05-12,M,28.0,20-40
+924,925,12 May 2020,,U,4,P696 - Contact,Davanagere,2020-05-12,F,9.0,3-12
+925,926,13 May 2020,,U,4,P848 - Contact,Kalaburagi,2020-05-13,M,45.0,40-60
+926,927,13 May 2020,,U,3,Containment Zone Kalaburagi Brought dead to Hospital - Contact,Kalaburagi,2020-05-13,M,60.0,40-60
+927,928,13 May 2020,,U,3,Contact under tracing,Bengaluru,2020-05-13,F,37.0,20-40
+928,929,13 May 2020,,U,5,P786 - Contact,Uttara Kannada,2020-05-13,F,2.0,<3
+929,930,13 May 2020,,U,3,SARI,Ballari,2020-05-13,F,18.0,12-20
+930,931,13 May 2020,,U,3,Containment Zone Bidar - Contact,Bidar,2020-05-13,M,30.0,20-40
+931,932,13 May 2020,,U,3,Containment Zone Bidar - Contact,Bidar,2020-05-13,F,26.0,20-40
+932,933,13 May 2020,,U,4,P695 - Contact,Davanagere,2020-05-13,F,33.0,20-40
+933,934,13 May 2020,,U,4,P695 - Contact,Davanagere,2020-05-13,M,11.0,3-12
+934,935,13 May 2020,,U,3,Containment Zone Bidar - Contact,Bidar,2020-05-13,F,19.0,12-20
+935,936,13 May 2020,,U,3,Containment Zone Bidar - Contact,Bidar,2020-05-13,F,36.0,20-40
+936,937,13 May 2020,,U,3,Containment Zone Bidar - Contact,Bidar,2020-05-13,M,17.0,12-20
+937,938,13 May 2020,,U,3,Containment Zone Bidar - Contact,Bidar,2020-05-13,F,36.0,20-40
+938,939,13 May 2020,,U,3,Containment Zone Bidar - Contact,Bidar,2020-05-13,F,31.0,20-40
+939,940,13 May 2020,,U,3,Containment Zone Bidar - Contact,Bidar,2020-05-13,F,15.0,12-20
+940,941,13 May 2020,,U,3,Containment Zone Bidar - Contact,Bidar,2020-05-13,F,16.0,12-20
+941,942,13 May 2020,,U,3,Containment Zone Bidar - Contact,Bidar,2020-05-13,F,14.0,12-20
+942,943,13 May 2020,,U,3,Containment Zone Bidar - Contact,Bidar,2020-05-13,F,35.0,20-40
+943,944,13 May 2020,,OS,2,"Travel History To Mumbai, Maharashtra",Vijayapura,2020-05-13,M,30.0,20-40
+944,945,13 May 2020,,OS,2,"Travel History To Mumbai, Maharashtra",Vijayapura,2020-05-13,M,18.0,12-20
+945,946,13 May 2020,,OS,2,"Travel History To Ratnagiri, Maharashtra",Uttara Kannada,2020-05-13,M,26.0,20-40
+946,947,13 May 2020,,U,6,P507 - Contact,Dakshina Kannada,2020-05-13,F,38.0,20-40
+947,948,13 May 2020,,OS,2,"Travel History To Mumbai, Maharashtra",Hassan,2020-05-13,F,38.0,20-40
+948,949,13 May 2020,,OS,2,"Travel History To Mumbai, Maharashtra",Hassan,2020-05-13,M,17.0,12-20
+949,950,13 May 2020,,OS,2,"Travel History To Mumbai, Maharashtra",Hassan,2020-05-13,F,14.0,12-20
+950,951,13 May 2020,,OS,2,"Travel History To Mumbai, Maharashtra",Hassan,2020-05-13,M,43.0,40-60
+951,952,13 May 2020,,OS,3,P806 - Contact,Kalaburagi,2020-05-13,F,42.0,40-60
+952,953,13 May 2020,,U,4,P848 - Contact,Kalaburagi,2020-05-13,F,30.0,20-40
+953,954,13 May 2020,,OS,2,"Travel History to Gunturu, AP",Kalaburagi,2020-05-13,M,19.0,12-20
+954,955,13 May 2020,,OS,3,P806 - Contact,Kalaburagi,2020-05-13,F,28.0,20-40
+955,956,13 May 2020,,OS,3,P806 - Contact,Kalaburagi,2020-05-13,F,15.0,12-20
+956,957,13 May 2020,,OS,3,P806 - Contact,Kalaburagi,2020-05-13,F,35.0,20-40
+957,958,13 May 2020,,OS,2,Travel History from London,Bengaluru International,2020-05-13,M,24.0,20-40
+958,959,13 May 2020,,U,3,Containment Zone Bidar - Contact,Bidar,2020-05-13,M,44.0,40-60
+959,960,14 May 2020,,U,7,P852 - Contact,Davanagere,2020-05-14,M,40.0,20-40
+960,961,14 May 2020,,OS,2,Travel History to Mumbai,Mandya,2020-05-14,F,48.0,40-60
+961,962,14 May 2020,,OS,2,Travel History to Mumbai,Mandya,2020-05-14,M,38.0,20-40
+962,963,14 May 2020,,OS,2,Travel History to Mumbai,Mandya,2020-05-14,M,6.0,3-12
+963,964,14 May 2020,,OS,2,Travel History to Mumbai,Mandya,2020-05-14,M,26.0,20-40
+964,965,14 May 2020,,U,4,P554 - Contact,Bengaluru,2020-05-14,M,8.0,3-12
+965,966,14 May 2020,,U,4,P554 - Contact,Bengaluru,2020-05-14,M,10.0,3-12
+966,967,14 May 2020,,U,4,P554 - Contact,Bengaluru,2020-05-14,M,45.0,40-60
+967,968,14 May 2020,,U,4,P554 - Contact,Bengaluru,2020-05-14,F,40.0,20-40
+968,969,14 May 2020,,U,4,P555 - Contact,Bengaluru,2020-05-14,M,10.0,3-12
+969,970,14 May 2020,,OS,2,Travel History to Ahmedabad,Gadag,2020-05-14,M,62.0,60+
+970,971,14 May 2020,,OS,2,Travel History to Ahmedabad,Gadag,2020-05-14,M,47.0,40-60
+971,972,14 May 2020,,OS,2,Travel History to Ahmedabad,Gadag,2020-05-14,M,44.0,40-60
+972,973,14 May 2020,,OS,2,Travel History to Ahmedabad,Gadag,2020-05-14,M,28.0,20-40
+973,974,14 May 2020,,OS,2,Travel History to Mumbai,Belagavi,2020-05-14,F,27.0,20-40
+974,975,14 May 2020,,U,3,Containment Zone Davanagere - Contact,Davanagere,2020-05-14,M,34.0,20-40
+975,976,14 May 2020,,U,3,ILI,Davanagere,2020-05-14,M,32.0,20-40
+976,977,14 May 2020,,U,3,History of Domestic Travel,Bagalkote,2020-05-14,M,23.0,20-40
+977,978,14 May 2020,,OS,2,Travel History to Mumbai,Bidar,2020-05-14,F,45.0,40-60
+978,979,14 May 2020,,U,3,Containment Zone Bidar - Contact,Bidar,2020-05-14,M,32.0,20-40
+979,980,14 May 2020,,U,3,Containment Zone Bidar - Contact,Bidar,2020-05-14,M,29.0,20-40
+980,981,14 May 2020,,U,3,Containment Zone Bidar - Contact,Bidar,2020-05-14,M,25.0,20-40
+981,982,14 May 2020,,DT,4,P179 - Contact,Mandya,2020-05-14,M,37.0,20-40
+982,983,14 May 2020,,U,4,P587 - Contact,Kalaburagi,2020-05-14,F,80.0,60+
+983,984,14 May 2020,,U,4,P610 - Contact,Kalaburagi,2020-05-14,M,28.0,20-40
+984,985,14 May 2020,,U,4,P959 - Contact,Bidar,2020-05-14,M,18.0,12-20
+985,986,14 May 2020,,U,4,P959 - Contact,Bidar,2020-05-14,M,16.0,12-20
+986,987,14 May 2020,,U,4,P959 - Contact,Bidar,2020-05-14,F,36.0,20-40
+987,988,15 May 2020,,U,4,P911 - Contact,Bengaluru,2020-05-15,F,6.0,3-12
+988,989,15 May 2020,,U,4,P911 - Contact,Bengaluru,2020-05-15,F,32.0,20-40
+989,990,15 May 2020,,U,4,P936 - Contact,Bidar,2020-05-15,F,14.0,12-20
+990,991,15 May 2020,,U,4,P937 - Contact,Bidar,2020-05-15,F,40.0,20-40
+991,992,15 May 2020,,OS,2,Travel History to Chennai,Kolar,2020-05-15,M,24.0,20-40
+992,993,15 May 2020,,OS,2,Travel History to Chennai,Chitradurga,2020-05-15,F,3.0,<3
+993,994,15 May 2020,,OS,2,Travel History to Chennai,Chitradurga,2020-05-15,M,39.0,20-40
+994,995,15 May 2020,,OS,2,Travel History to Mumbai,Shivamogga,2020-05-15,M,42.0,40-60
+995,996,15 May 2020,,OS,2,Travel History to Mumbai,Hassan,2020-05-15,F,24.0,20-40
+996,997,15 May 2020,,OS,2,Travel History to Mumbai,Hassan,2020-05-15,M,7.0,3-12
+997,998,15 May 2020,,OS,2,Travel History to Mumbai,Hassan,2020-05-15,M,33.0,20-40
+998,999,15 May 2020,,U,3,Containment Zone Bidar - Contact,Bidar,2020-05-15,M,24.0,20-40
+999,1000,15 May 2020,,U,4,P865 - Secondary Contact,Bagalkote,2020-05-15,F,21.0,20-40
+1000,1001,15 May 2020,,T,1,International Travel History from Dubai,Dakshina Kannada,2020-05-15,F,69.0,60+
+1001,1002,15 May 2020,,T,1,International Travel History from Dubai,Dakshina Kannada,2020-05-15,M,6.0,3-12
+1002,1003,15 May 2020,,T,1,International Travel History from Dubai,Dakshina Kannada,2020-05-15,M,45.0,40-60
+1003,1004,15 May 2020,,T,1,International Travel History from Dubai,Dakshina Kannada,2020-05-15,F,33.0,20-40
+1004,1005,15 May 2020,,T,1,International Travel History from Dubai,Dakshina Kannada,2020-05-15,F,27.0,20-40
+1005,1006,15 May 2020,,T,1,International Travel History from Dubai,Dakshina Kannada,2020-05-15,M,81.0,60+
+1006,1007,15 May 2020,,T,1,International Travel History from Dubai,Dakshina Kannada,2020-05-15,M,27.0,20-40
+1007,1008,15 May 2020,,T,1,International Travel History from Dubai,Dakshina Kannada,2020-05-15,M,76.0,60+
+1008,1009,15 May 2020,,U,3,SARI,Dakshina Kannada,2020-05-15,F,68.0,60+
+1009,1010,15 May 2020,,T,1,International Travel History from Dubai,Dakshina Kannada,2020-05-15,M,37.0,20-40
+1010,1011,15 May 2020,,T,1,International Travel History from Dubai,Dakshina Kannada,2020-05-15,M,38.0,20-40
+1011,1012,15 May 2020,,T,1,International Travel History from Dubai,Dakshina Kannada,2020-05-15,M,65.0,60+
+1012,1013,15 May 2020,,T,1,International Travel History from Dubai,Dakshina Kannada,2020-05-15,M,39.0,20-40
+1013,1014,15 May 2020,,T,1,International Travel History from Dubai,Dakshina Kannada,2020-05-15,M,40.0,20-40
+1014,1015,15 May 2020,,T,1,International Travel History from Dubai,Dakshina Kannada,2020-05-15,M,71.0,60+
+1015,1016,15 May 2020,,T,1,International Travel History from Dubai,Uttara Kannada,2020-05-15,M,40.0,20-40
+1016,1017,15 May 2020,,U,7,P653 - Secondary Contact,Bengaluru,2020-05-15,M,21.0,20-40
+1017,1018,15 May 2020,,U,7,P653 - Secondary Contact,Bengaluru,2020-05-15,M,21.0,20-40
+1018,1019,15 May 2020,,U,7,P653 - Secondary Contact,Bengaluru,2020-05-15,M,22.0,20-40
+1019,1020,15 May 2020,,U,7,P653 - Secondary Contact,Bengaluru,2020-05-15,M,28.0,20-40
+1020,1021,15 May 2020,,U,7,P653 - Secondary Contact,Bengaluru,2020-05-15,M,15.0,12-20
+1021,1022,15 May 2020,,U,7,P653 - Secondary Contact,Bengaluru,2020-05-15,M,27.0,20-40
+1022,1023,15 May 2020,,U,7,P653 - Secondary Contact,Bengaluru,2020-05-15,M,27.0,20-40
+1023,1024,15 May 2020,,U,7,P653 - Secondary Contact,Bengaluru,2020-05-15,M,33.0,20-40
+1024,1025,15 May 2020,,U,7,P653 - Secondary Contact,Bengaluru,2020-05-15,M,28.0,20-40
+1025,1026,15 May 2020,,U,7,P653 - Secondary Contact,Bengaluru,2020-05-15,M,30.0,20-40
+1026,1027,15 May 2020,,U,7,P653 - Secondary Contact,Bengaluru,2020-05-15,M,21.0,20-40
+1027,1028,15 May 2020,,T,1,International Travel History from Dubai,Udupi,2020-05-15,M,52.0,40-60
+1028,1029,15 May 2020,,T,1,International Travel History from Dubai,Udupi,2020-05-15,M,31.0,20-40
+1029,1030,15 May 2020,,T,1,International Travel History from Dubai,Udupi,2020-05-15,F,33.0,20-40
+1030,1031,15 May 2020,,T,1,International Travel History from Dubai,Udupi,2020-05-15,F,38.0,20-40
+1031,1032,15 May 2020,,T,1,International Travel History from Dubai,Udupi,2020-05-15,M,37.0,20-40
+1032,1033,15 May 2020,,OS,2,Travel History to Mumbai,Hassan,2020-05-15,M,30.0,20-40
+1033,1034,15 May 2020,,OS,2,Travel History to Mumbai,Hassan,2020-05-15,F,18.0,12-20
+1034,1035,15 May 2020,,OS,2,Travel History to Mumbai,Hassan,2020-05-15,M,8.0,3-12
+1035,1036,15 May 2020,,OS,2,Travel History to Mumbai,Hassan,2020-05-15,F,30.0,20-40
+1036,1037,15 May 2020,,U,3,Containment Zone Bidar - Contact,Bidar,2020-05-15,M,46.0,40-60
+1037,1038,15 May 2020,,U,3,Containment Zone Kalaburgi - Contact,Kalaburagi,2020-05-15,F,30.0,20-40
+1038,1039,15 May 2020,,U,3,ILI,Kalaburagi,2020-05-15,M,80.0,60+
+1039,1040,15 May 2020,,OS,2,Travel History to Mumbai,Kalaburagi,2020-05-15,M,24.0,20-40
+1040,1041,15 May 2020,,OS,2,"Travel History to Hyderabad , Telangana",Bidar,2020-05-15,M,52.0,40-60
+1041,1042,15 May 2020,,OS,2,Travel History to Mumbai,Bidar,2020-05-15,M,36.0,20-40
+1042,1043,15 May 2020,,U,3,Containment Zone Bidar - Contact,Bidar,2020-05-15,F,38.0,20-40
+1043,1044,15 May 2020,,OS,2,Travel History to Mumbai,Mandya,2020-05-15,M,34.0,20-40
+1044,1045,15 May 2020,,OS,2,Travel History to Mumbai,Mandya,2020-05-15,M,33.0,20-40
+1045,1046,15 May 2020,,OS,2,Travel History to Mumbai,Mandya,2020-05-15,F,40.0,20-40
+1046,1047,15 May 2020,,OS,2,Travel History to Mumbai,Mandya,2020-05-15,M,50.0,40-60
+1047,1048,15 May 2020,,OS,2,Travel History to Mumbai,Mandya,2020-05-15,M,22.0,20-40
+1048,1049,15 May 2020,,OS,2,Travel History to Mumbai,Mandya,2020-05-15,M,28.0,20-40
+1049,1050,15 May 2020,,OS,2,Travel History to Mumbai,Mandya,2020-05-15,F,39.0,20-40
+1050,1051,15 May 2020,,OS,2,Travel History to Mumbai,Mandya,2020-05-15,F,9.0,3-12
+1051,1052,15 May 2020,,OS,2,Travel History to Mumbai,Mandya,2020-05-15,M,42.0,40-60
+1052,1053,15 May 2020,,OS,2,Travel History to Mumbai,Mandya,2020-05-15,M,15.0,12-20
+1053,1054,15 May 2020,,OS,2,Travel History to Mumbai,Mandya,2020-05-15,M,46.0,40-60
+1054,1055,15 May 2020,,OS,2,Travel History to Mumbai,Mandya,2020-05-15,F,6.0,3-12
+1055,1056,15 May 2020,,OS,2,Travel History to Mumbai,Mandya,2020-05-15,M,28.0,20-40
+1056,1057,16 May 2020,,U,3,Inter-District Travel History Kolara and Bengaluru,Mandya,2020-05-16,M,40.0,20-40
+1057,1058,16 May 2020,,OS,2,Inter-State Travel History Mumbai,Hassan,2020-05-16,M,50.0,40-60
+1058,1059,16 May 2020,,T,1,International Travel History from Dubai,Udupi,2020-05-16,F,1.0,<3
+1059,1060,16 May 2020,,OS,2,Inter-State Travel History Mumbai,Dharwad,2020-05-16,M,34.0,20-40
+1060,1061,16 May 2020,,U,4,P533 - Secondary Contact,Davanagere,2020-05-16,F,65.0,60+
+1061,1062,16 May 2020,,OS,2,Inter-State Travel History Ahmedabad,Ballari,2020-05-16,M,46.0,40-60
+1062,1063,16 May 2020,,OS,2,Inter-State Travel History Mumbai,Bagalkote,2020-05-16,M,33.0,20-40
+1063,1064,16 May 2020,,U,7,P653 - Secondary Contact,Bengaluru,2020-05-16,M,27.0,20-40
+1064,1065,16 May 2020,,U,7,P653 - Secondary Contact,Bengaluru,2020-05-16,M,25.0,20-40
+1065,1066,16 May 2020,,U,7,P653 - Secondary Contact,Bengaluru,2020-05-16,M,20.0,12-20
+1066,1067,16 May 2020,,U,7,P653 - Secondary Contact,Bengaluru,2020-05-16,M,50.0,40-60
+1067,1068,16 May 2020,,U,7,P653 - Secondary Contact,Bengaluru,2020-05-16,M,20.0,12-20
+1068,1069,16 May 2020,,U,7,P653 - Secondary Contact,Bengaluru,2020-05-16,M,27.0,20-40
+1069,1070,16 May 2020,,U,7,P653 - Secondary Contact,Bengaluru,2020-05-16,M,24.0,20-40
+1070,1071,16 May 2020,,U,7,P653 - Secondary Contact,Bengaluru,2020-05-16,M,23.0,20-40
+1071,1072,16 May 2020,,U,7,P653 - Secondary Contact,Bengaluru,2020-05-16,M,24.0,20-40
+1072,1073,16 May 2020,,U,7,P653 - Secondary Contact,Bengaluru,2020-05-16,M,26.0,20-40
+1073,1074,16 May 2020,,U,7,P653 - Secondary Contact,Bengaluru,2020-05-16,M,33.0,20-40
+1074,1075,16 May 2020,,U,7,P653 - Secondary Contact,Bengaluru,2020-05-16,M,17.0,12-20
+1075,1076,16 May 2020,,U,7,P653 - Secondary Contact,Bengaluru,2020-05-16,M,18.0,12-20
+1076,1077,16 May 2020,,U,7,P653 - Secondary Contact,Bengaluru,2020-05-16,M,19.0,12-20
+1077,1078,16 May 2020,,OS,2,Inter-State Travel History Mumbai,Hassan,2020-05-16,M,63.0,60+
+1078,1079,16 May 2020,,OS,2,Inter-State Travel History Mumbai,Hassan,2020-05-16,F,21.0,20-40
+1079,1080,16 May 2020,,U,4,P848 - Contact,Kalaburagi,2020-05-16,F,33.0,20-40
+1080,1081,16 May 2020,,U,4,P848 - Contact,Kalaburagi,2020-05-16,F,15.0,12-20
+1081,1082,16 May 2020,,U,4,P848 - Contact,Kalaburagi,2020-05-16,F,14.0,12-20
+1082,1083,16 May 2020,,U,4,P848 - Contact,Kalaburagi,2020-05-16,M,55.0,40-60
+1083,1084,16 May 2020,,OS,2,Inter-State Travel History Mumbai,Kalaburagi,2020-05-16,F,30.0,20-40
+1084,1085,16 May 2020,,U,4,P927 - Contact,Kalaburagi,2020-05-16,F,50.0,40-60
+1085,1086,16 May 2020,,U,4,P848 - Contact,Kalaburagi,2020-05-16,M,60.0,40-60
+1086,1087,16 May 2020,,U,4,P848 - Contact,Kalaburagi,2020-05-16,F,10.0,3-12
+1087,1088,16 May 2020,,OS,2,Inter-State Travel History Mumbai,Shivamogga,2020-05-16,F,38.0,20-40
+1088,1089,16 May 2020,,OS,2,Inter-State Travel History Mumbai,Shivamogga,2020-05-16,M,42.0,40-60
+1089,1090,16 May 2020,,OS,2,Inter-State Travel History Mumbai,Shivamogga,2020-05-16,F,4.0,3-12
+1090,1091,16 May 2020,,OS,4,P594 - Contact,Vijayapura,2020-05-16,F,4.0,3-12
+1091,1092,16 May 2020,,OS,2,Inter-State Travel History Mumbai,Hassan,2020-05-16,M,18.0,12-20
+1092,1093,17 May 2020,,OS,2,Inter-State Travel History Mumbai Died,Udupi,2020-05-17,M,54.0,40-60
+1093,1094,17 May 2020,,U,3,Contact under tracing,Dakshina Kannada,2020-05-17,M,31.0,20-40
+1094,1095,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Dakshina Kannada,2020-05-17,F,35.0,20-40
+1095,1096,17 May 2020,,OS,2,Inter-State Travel History Chennai,Kolar,2020-05-17,M,27.0,20-40
+1096,1097,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Mandya,2020-05-17,M,48.0,40-60
+1097,1098,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Mandya,2020-05-17,F,33.0,20-40
+1098,1099,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Mandya,2020-05-17,M,9.0,3-12
+1099,1100,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Mandya,2020-05-17,F,11.0,3-12
+1100,1101,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Mandya,2020-05-17,M,8.0,3-12
+1101,1102,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Mandya,2020-05-17,F,28.0,20-40
+1102,1103,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Mandya,2020-05-17,M,8.0,3-12
+1103,1104,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Mandya,2020-05-17,M,58.0,40-60
+1104,1105,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Mandya,2020-05-17,F,48.0,40-60
+1105,1106,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Mandya,2020-05-17,F,32.0,20-40
+1106,1107,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Mandya,2020-05-17,M,32.0,20-40
+1107,1108,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Mandya,2020-05-17,F,75.0,60+
+1108,1109,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Mandya,2020-05-17,M,44.0,40-60
+1109,1110,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Mandya,2020-05-17,M,52.0,40-60
+1110,1111,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Mandya,2020-05-17,F,35.0,20-40
+1111,1112,17 May 2020,,OS,3,P869 - Contact,Mandya,2020-05-17,F,65.0,60+
+1112,1113,17 May 2020,,OS,3,P869 - Contact,Mandya,2020-05-17,F,60.0,40-60
+1113,1114,17 May 2020,,OS,3,P869 - Contact,Mandya,2020-05-17,M,28.0,20-40
+1114,1115,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Mandya,2020-05-17,F,32.0,20-40
+1115,1116,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Mandya,2020-05-17,M,39.0,20-40
+1116,1117,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Mandya,2020-05-17,M,1.0,<3
+1117,1118,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Hassan,2020-05-17,F,37.0,20-40
+1118,1119,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Hassan,2020-05-17,M,33.0,20-40
+1119,1120,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Hassan,2020-05-17,F,22.0,20-40
+1120,1121,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Hassan,2020-05-17,F,3.0,<3
+1121,1122,17 May 2020,,OS,5,P577 - Contact,Vijayapura,2020-05-17,F,35.0,20-40
+1122,1123,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Dharwad,2020-05-17,M,39.0,20-40
+1123,1124,17 May 2020,,U,4,P589 - Contact,Dharwad,2020-05-17,M,16.0,12-20
+1124,1125,17 May 2020,,OS,3,P869 - Contact,Mandya,2020-05-17,M,53.0,40-60
+1125,1126,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Shivamogga,2020-05-17,M,24.0,20-40
+1126,1127,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Shivamogga,2020-05-17,M,51.0,40-60
+1127,1128,17 May 2020,,U,3,SARI,Kolar,2020-05-17,M,49.0,40-60
+1128,1129,17 May 2020,,U,3,Contact under investigation,Kalaburagi,2020-05-17,F,35.0,20-40
+1129,1130,17 May 2020,,U,3,Contact - Containment zone Kalaburgi,Kalaburagi,2020-05-17,M,55.0,40-60
+1130,1131,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Kalaburagi,2020-05-17,M,10.0,3-12
+1131,1132,17 May 2020,,U,4,P927 - Contact,Kalaburagi,2020-05-17,M,55.0,40-60
+1132,1133,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Kalaburagi,2020-05-17,M,36.0,20-40
+1133,1134,17 May 2020,,U,4,P927 - Contact,Kalaburagi,2020-05-17,F,50.0,40-60
+1134,1135,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Kalaburagi,2020-05-17,M,13.0,12-20
+1135,1136,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Kalaburagi,2020-05-17,M,7.0,3-12
+1136,1137,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Kalaburagi,2020-05-17,M,40.0,20-40
+1137,1138,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Kalaburagi,2020-05-17,M,55.0,40-60
+1138,1139,17 May 2020,,OS,2,"Inter-State travel history Thane, Maharashtra",Yadagiri,2020-05-17,M,30.0,20-40
+1139,1140,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Yadagiri,2020-05-17,M,22.0,20-40
+1140,1141,17 May 2020,,OS,2,"Inter-State travel history Thane, Maharashtra",Yadagiri,2020-05-17,M,34.0,20-40
+1141,1142,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Dharwad,2020-05-17,F,28.0,20-40
+1142,1143,17 May 2020,,OS,2,"Inter-State travel history Kolhapur, Maharashtra",Dharwad,2020-05-17,M,25.0,20-40
+1143,1144,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Hassan,2020-05-17,M,28.0,20-40
+1144,1145,17 May 2020,,OS,2,Inter-State Travel History Mumbai,Hassan,2020-05-17,M,24.0,20-40
+1145,1146,17 May 2020,,U,3,Contact under tracing,Kolara,2020-05-17,M,43.0,40-60
+1146,1147,17 May 2020,,U,5,P740 - Contact,Uttar Kannada,2020-05-17,M,68.0,60+
