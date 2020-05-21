@@ -8,3 +8,4 @@ folium
 matplotlib
 numpy
 networkx==2.3
+gunicorn==20.0.4

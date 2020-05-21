@@ -1,2 +1,1 @@
-web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True notebooks/covid19indialive.ipynb
-
+web: gunicorn covid19indialive:server
